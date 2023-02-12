@@ -5,7 +5,7 @@ import org.apache.spark.sql.{SaveMode, SparkSession}
 
 
 object w1_write_file {
-  
+
   def main(args: Array[String]): Unit = {
         val sparkConf = new SparkConf()
         sparkConf.set("spark.app.name","write_file")
