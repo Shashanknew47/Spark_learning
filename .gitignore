@@ -127,3 +127,83 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+
+Skip to content
+Product
+Solutions
+Open Source
+Pricing
+Search
+Sign in
+Sign up
+knoldus
+/
+spark-scala
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+spark-scala/.gitignore
+@gupta-himanshu
+gupta-himanshu Initial Commit
+…
+Latest commit 9ee8f84 on Mar 26, 2015
+ History
+ 1 contributor
+33 lines (29 sloc)  315 Bytes
+
+*.class
+*.log
+*.zip
+*.gz
+*.jpeg
+*.jpg
+*.png
+*~
+
+# sbt specific
+.settings/
+.cache/
+.history/
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.project
+.classpath
+.cache
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+
+# IntelliJ IDEA specific
+**/.idea/
+**/target/
+**/*.iml
+
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About

@@ -1,0 +1,19 @@
+1) Make sure intellij plug in for 1) Scala snd 2)SBT executer is installed.
+
+2) Go to https://mvnrepository.com/ and search for Spark :
+      => Select 'Apache Project Core'
+      => Select the latest version of Spark and make sure to check it's supported Scala version on the
+          right hand side of table.
+      => Click on the selected Spark version
+      => Choose SBT and copy the link
+      => Go to build.sbt and paste this link
+
+      => on the right hand side you will see a haxagon icon, when you will hover cursor on it. it will say
+         download the changes. just do that to install the changes.
+
+
+Note : You can change the Scala version by changing it from build.sbt file and downloading it.
+
+3) Go to https://mvnrepository.com/ and commons io :
+    => Again SELECT the latest version and copy the SBT link of common io
+    => paste in build.sbt
