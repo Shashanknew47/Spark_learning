@@ -19,7 +19,7 @@ object w1_word_count_module extends App{
        this array of lines will not be visible by intellij. So, to see this use command line
        spark-shell.
     */
-    val j = 1
+
     val Rdd_array_of_file_lines = input.collect()
     Rdd_array_of_file_lines.foreach(println)
 
