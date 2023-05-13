@@ -1,0 +1,186 @@
+[
+    {
+        "label": "pyspark",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkContext",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkContext",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "accumulator",
+        "description": "accumulator",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/samplefile.txt\"\nsc = SparkContext(\"local[*]\",\"wordcount\")\nsc.setLogLevel(\"ERROR\")\n# this will give initially 0 value to accumulator\nacc = sc.accumulator(0)\nrdd1 =  sc.textFile(file_path)\nrdd1.foreach(lambda x:acc.add(1) if x == '' else acc.add(0))\nprint(acc.value)\nprint(dir(rdd1))",
+        "detail": "accumulator",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "accumulator",
+        "description": "accumulator",
+        "peekOfCode": "sc = SparkContext(\"local[*]\",\"wordcount\")\nsc.setLogLevel(\"ERROR\")\n# this will give initially 0 value to accumulator\nacc = sc.accumulator(0)\nrdd1 =  sc.textFile(file_path)\nrdd1.foreach(lambda x:acc.add(1) if x == '' else acc.add(0))\nprint(acc.value)\nprint(dir(rdd1))",
+        "detail": "accumulator",
+        "documentation": {}
+    },
+    {
+        "label": "acc",
+        "kind": 5,
+        "importPath": "accumulator",
+        "description": "accumulator",
+        "peekOfCode": "acc = sc.accumulator(0)\nrdd1 =  sc.textFile(file_path)\nrdd1.foreach(lambda x:acc.add(1) if x == '' else acc.add(0))\nprint(acc.value)\nprint(dir(rdd1))",
+        "detail": "accumulator",
+        "documentation": {}
+    },
+    {
+        "label": "rdd1",
+        "kind": 5,
+        "importPath": "accumulator",
+        "description": "accumulator",
+        "peekOfCode": "rdd1 =  sc.textFile(file_path)\nrdd1.foreach(lambda x:acc.add(1) if x == '' else acc.add(0))\nprint(acc.value)\nprint(dir(rdd1))",
+        "detail": "accumulator",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "brodcast_variable",
+        "description": "brodcast_variable",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/poem.txt\"\nboring_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/boringwords.txt\"\nsc = SparkContext(\"local[*]\",\"count_numbers\")\nsc.setLogLevel(\"ERROR\")\ns = set()\nwith open(boring_path,'r') as f:\n    for i in f:\n        s.add(i.strip('\\n'))\nnameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)",
+        "detail": "brodcast_variable",
+        "documentation": {}
+    },
+    {
+        "label": "boring_path",
+        "kind": 5,
+        "importPath": "brodcast_variable",
+        "description": "brodcast_variable",
+        "peekOfCode": "boring_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/boringwords.txt\"\nsc = SparkContext(\"local[*]\",\"count_numbers\")\nsc.setLogLevel(\"ERROR\")\ns = set()\nwith open(boring_path,'r') as f:\n    for i in f:\n        s.add(i.strip('\\n'))\nnameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)\nbase_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\",
+        "detail": "brodcast_variable",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "brodcast_variable",
+        "description": "brodcast_variable",
+        "peekOfCode": "sc = SparkContext(\"local[*]\",\"count_numbers\")\nsc.setLogLevel(\"ERROR\")\ns = set()\nwith open(boring_path,'r') as f:\n    for i in f:\n        s.add(i.strip('\\n'))\nnameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)\nbase_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\\n            .filter(lambda x:not(x in nameSet.value))\\",
+        "detail": "brodcast_variable",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "brodcast_variable",
+        "description": "brodcast_variable",
+        "peekOfCode": "s = set()\nwith open(boring_path,'r') as f:\n    for i in f:\n        s.add(i.strip('\\n'))\nnameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)\nbase_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\\n            .filter(lambda x:not(x in nameSet.value))\\\n            .map(lambda x:(x,1))\nreduced_rdd = base_rdd.reduceByKey(lambda x,y:x+y).sortBy(lambda x:x[1],False)",
+        "detail": "brodcast_variable",
+        "documentation": {}
+    },
+    {
+        "label": "nameSet",
+        "kind": 5,
+        "importPath": "brodcast_variable",
+        "description": "brodcast_variable",
+        "peekOfCode": "nameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)\nbase_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\\n            .filter(lambda x:not(x in nameSet.value))\\\n            .map(lambda x:(x,1))\nreduced_rdd = base_rdd.reduceByKey(lambda x,y:x+y).sortBy(lambda x:x[1],False)\nfor i in reduced_rdd.collect():\n    print(i)",
+        "detail": "brodcast_variable",
+        "documentation": {}
+    },
+    {
+        "label": "base_rdd",
+        "kind": 5,
+        "importPath": "brodcast_variable",
+        "description": "brodcast_variable",
+        "peekOfCode": "base_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\\n            .filter(lambda x:not(x in nameSet.value))\\\n            .map(lambda x:(x,1))\nreduced_rdd = base_rdd.reduceByKey(lambda x,y:x+y).sortBy(lambda x:x[1],False)\nfor i in reduced_rdd.collect():\n    print(i)",
+        "detail": "brodcast_variable",
+        "documentation": {}
+    },
+    {
+        "label": "reduced_rdd",
+        "kind": 5,
+        "importPath": "brodcast_variable",
+        "description": "brodcast_variable",
+        "peekOfCode": "reduced_rdd = base_rdd.reduceByKey(lambda x,y:x+y).sortBy(lambda x:x[1],False)\nfor i in reduced_rdd.collect():\n    print(i)",
+        "detail": "brodcast_variable",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "frist_prac",
+        "description": "frist_prac",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"prac\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).enableHiveSupport().getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\ndf = spark.read.format(\"csv\").option(\"inferSchema\",True).option(\"path\",file_path).option(\"header\",True).load()\ndf.groupBy(\"order_status\").sum(\"order_id\").withColumnRenamed(\"sum(order_id)\",\"order_count\").sort(\"order_count\").show()",
+        "detail": "frist_prac",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "frist_prac",
+        "description": "frist_prac",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).enableHiveSupport().getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\ndf = spark.read.format(\"csv\").option(\"inferSchema\",True).option(\"path\",file_path).option(\"header\",True).load()\ndf.groupBy(\"order_status\").sum(\"order_id\").withColumnRenamed(\"sum(order_id)\",\"order_count\").sort(\"order_count\").show()",
+        "detail": "frist_prac",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "frist_prac",
+        "description": "frist_prac",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\ndf = spark.read.format(\"csv\").option(\"inferSchema\",True).option(\"path\",file_path).option(\"header\",True).load()\ndf.groupBy(\"order_status\").sum(\"order_id\").withColumnRenamed(\"sum(order_id)\",\"order_count\").sort(\"order_count\").show()",
+        "detail": "frist_prac",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "frist_prac",
+        "description": "frist_prac",
+        "peekOfCode": "df = spark.read.format(\"csv\").option(\"inferSchema\",True).option(\"path\",file_path).option(\"header\",True).load()\ndf.groupBy(\"order_status\").sum(\"order_id\").withColumnRenamed(\"sum(order_id)\",\"order_count\").sort(\"order_count\").show()",
+        "detail": "frist_prac",
+        "documentation": {}
+    }
+]

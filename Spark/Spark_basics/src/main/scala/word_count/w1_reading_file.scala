@@ -1,8 +1,7 @@
 package word_count
 
 import org.apache.spark.SparkContext
-import word_count.Main
-object w1_word_count_module extends App{
+object w1_reading_file extends App{
 
     /* Here * inside local represents that use all the cores. Here you can mention a number
      which will specify number of cores to be used in Spark. */
@@ -22,5 +21,6 @@ object w1_word_count_module extends App{
 
     val Rdd_array_of_file_lines = input.collect()
     Rdd_array_of_file_lines.foreach(println)
+    scala.io.StdIn.readLine()
 
 }

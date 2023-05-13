@@ -29,7 +29,7 @@ object w8_udf_Add_column extends App{
         .option("path",file_path)
         .load()
 
-      // ad dataset1 don't have column name. So give them column name with df.toDF()
+      // as dataset1 don't have column name. So give them column name with df.toDF()
       val df_wcolumns:Dataset[Row] = df.toDF("name","age","city")
 
       /* In case you want to create Dataset from df

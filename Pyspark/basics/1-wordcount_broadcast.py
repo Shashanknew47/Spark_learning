@@ -13,8 +13,7 @@ file_load_rdd = sc.textFile(filepath).flatMap(lambda x:x.split()).map(lambda x:x
 file_load_tuple = file_load_rdd.map(lambda x:(x,1)).reduceByKey(lambda a,b:(a+b)).sortBy(lambda x:x[1],False)
 
 
-final_words = file_load_tuple.filter(lambda x:x[0] not in unwanted_words)
-
+final_words = file_load_tuple.filter(lambda x:x[0] not in unwanted.value)
 
 x = final_words.take(20)
 

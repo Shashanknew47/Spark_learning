@@ -4,7 +4,6 @@ import org.apache.log4j.{Level, Logger}
 import org.apache.spark.SparkConf
 import org.apache.spark.sql.SparkSession
 
-
 object w6_Unstructured_data extends App{
 
   Logger.getLogger("org").setLevel(Level.ERROR)
@@ -20,7 +19,6 @@ object w6_Unstructured_data extends App{
       }
     }
   }
-
 
   val sparkConf = new SparkConf()
   sparkConf.set("spark.app.name","handling_unsturctured_data")

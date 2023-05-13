@@ -19,15 +19,16 @@ object w2_word_count_final extends App{
 
   /* We can chain up these all steps in this way also.
   val final_count = input.flatMap(_.split(" ")).map((_,1)).reduceByKey((_ + _))
-
    */
 
-  // We can write up the same like this also.
+  // We can write up the same like this also with chaining.
 
+  println(input.getNumPartitions)
   val final_count = input.flatMap(_.split(" ")).
     map((_,1)).
     reduceByKey((_ + _))
 
+  println(input.getNumPartitions)
   final_count.collect().foreach(println)
 
 //  finalCount.collect.foreach(println)

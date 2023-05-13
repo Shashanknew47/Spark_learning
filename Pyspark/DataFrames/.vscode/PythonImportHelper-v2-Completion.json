@@ -1,0 +1,1570 @@
+[
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "udf",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "udf",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "expr",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "unix_timestamp",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "to_date",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "monotonically_increasing_id",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "regexp_extract",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "to_date",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "sum",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "avg",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "countDistinct",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "to_date",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "regexp_extract",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "sum",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "expr",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "regexp_extract",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "monotonically_increasing_id",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "StructType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StructField",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "TimestampType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StructType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StructField",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "TimestampType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "importPath": "2-SchemaDf",
+        "description": "2-SchemaDf",
+        "isExtraImport": true,
+        "detail": "2-SchemaDf",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "1-sparkSession_readDf",
+        "description": "1-sparkSession_readDf",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"spark_session_conf\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n\"\"\"Note\n    In the case of json header is already inbuilt there with schema. So, you don't need to\n    put header and inferSchema option here.\n    In parquet, orc, avro formats also have inbuilt schema with them. So, don't need to infer it with them.\n\"\"\"",
+        "detail": "1-sparkSession_readDf",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "1-sparkSession_readDf",
+        "description": "1-sparkSession_readDf",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n\"\"\"Note\n    In the case of json header is already inbuilt there with schema. So, you don't need to\n    put header and inferSchema option here.\n    In parquet, orc, avro formats also have inbuilt schema with them. So, don't need to infer it with them.\n\"\"\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .option('inferSchema',True)\\",
+        "detail": "1-sparkSession_readDf",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "1-sparkSession_readDf",
+        "description": "1-sparkSession_readDf",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n\"\"\"Note\n    In the case of json header is already inbuilt there with schema. So, you don't need to\n    put header and inferSchema option here.\n    In parquet, orc, avro formats also have inbuilt schema with them. So, don't need to infer it with them.\n\"\"\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .option('inferSchema',True)\\\n            .option(\"mode\",\"FAILFAST\")\\",
+        "detail": "1-sparkSession_readDf",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf",
+        "kind": 5,
+        "importPath": "1-sparkSession_readDf",
+        "description": "1-sparkSession_readDf",
+        "peekOfCode": "orderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .option('inferSchema',True)\\\n            .option(\"mode\",\"FAILFAST\")\\\n            .option('path',filepath).load()\nrorder_df = orderDf.repartition(4)\nbig_idDf = rorder_df.where(\"order_customer_id >10000 and order_id > 100\").\\\n    select(\"order_id\",\"order_customer_id\").\\\n    persist()\ncount_id_df = big_idDf.count()",
+        "detail": "1-sparkSession_readDf",
+        "documentation": {}
+    },
+    {
+        "label": "rorder_df",
+        "kind": 5,
+        "importPath": "1-sparkSession_readDf",
+        "description": "1-sparkSession_readDf",
+        "peekOfCode": "rorder_df = orderDf.repartition(4)\nbig_idDf = rorder_df.where(\"order_customer_id >10000 and order_id > 100\").\\\n    select(\"order_id\",\"order_customer_id\").\\\n    persist()\ncount_id_df = big_idDf.count()\nprint(count_id_df)\nbig_idDf.show()",
+        "detail": "1-sparkSession_readDf",
+        "documentation": {}
+    },
+    {
+        "label": "big_idDf",
+        "kind": 5,
+        "importPath": "1-sparkSession_readDf",
+        "description": "1-sparkSession_readDf",
+        "peekOfCode": "big_idDf = rorder_df.where(\"order_customer_id >10000 and order_id > 100\").\\\n    select(\"order_id\",\"order_customer_id\").\\\n    persist()\ncount_id_df = big_idDf.count()\nprint(count_id_df)\nbig_idDf.show()",
+        "detail": "1-sparkSession_readDf",
+        "documentation": {}
+    },
+    {
+        "label": "count_id_df",
+        "kind": 5,
+        "importPath": "1-sparkSession_readDf",
+        "description": "1-sparkSession_readDf",
+        "peekOfCode": "count_id_df = big_idDf.count()\nprint(count_id_df)\nbig_idDf.show()",
+        "detail": "1-sparkSession_readDf",
+        "documentation": {}
+    },
+    {
+        "label": "age_check",
+        "kind": 2,
+        "importPath": "10-udf_columnObjectExpression",
+        "description": "10-udf_columnObjectExpression",
+        "peekOfCode": "def age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nparseAgeFunction = udf(age_check,StringType())\ndf = name_df.withColumn(\"adult\",parseAgeFunction('age'))\ndf.show()",
+        "detail": "10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "10-udf_columnObjectExpression",
+        "description": "10-udf_columnObjectExpression",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"columns\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:",
+        "detail": "10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "10-udf_columnObjectExpression",
+        "description": "10-udf_columnObjectExpression",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'",
+        "detail": "10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "10-udf_columnObjectExpression",
+        "description": "10-udf_columnObjectExpression",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nparseAgeFunction = udf(age_check,StringType())",
+        "detail": "10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "name_schema",
+        "kind": 5,
+        "importPath": "10-udf_columnObjectExpression",
+        "description": "10-udf_columnObjectExpression",
+        "peekOfCode": "name_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nparseAgeFunction = udf(age_check,StringType())\ndf = name_df.withColumn(\"adult\",parseAgeFunction('age'))",
+        "detail": "10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "student_df",
+        "kind": 5,
+        "importPath": "10-udf_columnObjectExpression",
+        "description": "10-udf_columnObjectExpression",
+        "peekOfCode": "student_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nparseAgeFunction = udf(age_check,StringType())\ndf = name_df.withColumn(\"adult\",parseAgeFunction('age'))\ndf.show()",
+        "detail": "10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "name_df",
+        "kind": 5,
+        "importPath": "10-udf_columnObjectExpression",
+        "description": "10-udf_columnObjectExpression",
+        "peekOfCode": "name_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nparseAgeFunction = udf(age_check,StringType())\ndf = name_df.withColumn(\"adult\",parseAgeFunction('age'))\ndf.show()",
+        "detail": "10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "parseAgeFunction",
+        "kind": 5,
+        "importPath": "10-udf_columnObjectExpression",
+        "description": "10-udf_columnObjectExpression",
+        "peekOfCode": "parseAgeFunction = udf(age_check,StringType())\ndf = name_df.withColumn(\"adult\",parseAgeFunction('age'))\ndf.show()",
+        "detail": "10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "10-udf_columnObjectExpression",
+        "description": "10-udf_columnObjectExpression",
+        "peekOfCode": "df = name_df.withColumn(\"adult\",parseAgeFunction('age'))\ndf.show()",
+        "detail": "10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "age_check",
+        "kind": 2,
+        "importPath": "11-udf_sqlExpression",
+        "description": "11-udf_sqlExpression",
+        "peekOfCode": "def age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nspark.udf.register(\"parseAgeFunc\",age_check,StringType())\nfor x in spark.catalog.listFunctions():\n    if x.name == 'parseAgeFunc':\n        print(f'parAgeFunct -- found in spark catalog')\ndf = name_df.withColumn('adult',expr('parseAgeFunc(age)'))",
+        "detail": "11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "11-udf_sqlExpression",
+        "description": "11-udf_sqlExpression",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"columns\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:",
+        "detail": "11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "11-udf_sqlExpression",
+        "description": "11-udf_sqlExpression",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'",
+        "detail": "11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "11-udf_sqlExpression",
+        "description": "11-udf_sqlExpression",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nspark.udf.register(\"parseAgeFunc\",age_check,StringType())",
+        "detail": "11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "name_schema",
+        "kind": 5,
+        "importPath": "11-udf_sqlExpression",
+        "description": "11-udf_sqlExpression",
+        "peekOfCode": "name_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nspark.udf.register(\"parseAgeFunc\",age_check,StringType())\nfor x in spark.catalog.listFunctions():",
+        "detail": "11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "student_df",
+        "kind": 5,
+        "importPath": "11-udf_sqlExpression",
+        "description": "11-udf_sqlExpression",
+        "peekOfCode": "student_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nspark.udf.register(\"parseAgeFunc\",age_check,StringType())\nfor x in spark.catalog.listFunctions():\n    if x.name == 'parseAgeFunc':",
+        "detail": "11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "name_df",
+        "kind": 5,
+        "importPath": "11-udf_sqlExpression",
+        "description": "11-udf_sqlExpression",
+        "peekOfCode": "name_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nspark.udf.register(\"parseAgeFunc\",age_check,StringType())\nfor x in spark.catalog.listFunctions():\n    if x.name == 'parseAgeFunc':\n        print(f'parAgeFunct -- found in spark catalog')",
+        "detail": "11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "11-udf_sqlExpression",
+        "description": "11-udf_sqlExpression",
+        "peekOfCode": "df = name_df.withColumn('adult',expr('parseAgeFunc(age)'))\ndf.show()",
+        "detail": "11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "li",
+        "kind": 5,
+        "importPath": "12-spark_practicals-1",
+        "description": "12-spark_practicals-1",
+        "peekOfCode": "li = [(1,\"2013-07-25\",11599,\"CLOSED\"),\n      (2,\"2014-07-25\",256,\"PENDING_PAYMENT\"),\n      (3,\"2013-07-25\",11599,\"COMPLETE\"),\n      (4,\"2019-07-25\", 8827,\"CLOSED\")]\nfrom pyspark import SparkConf\nfrom pyspark.sql import SparkSession\nfrom pyspark.sql.functions import col,unix_timestamp,to_date,monotonically_increasing_id\nspark_conf = SparkConf()\nspark_conf.set(\"spark.app.name\",\"prac1\")\nspark_conf.set(\"spark.master\",\"local[*]\")",
+        "detail": "12-spark_practicals-1",
+        "documentation": {}
+    },
+    {
+        "label": "spark_conf",
+        "kind": 5,
+        "importPath": "12-spark_practicals-1",
+        "description": "12-spark_practicals-1",
+        "peekOfCode": "spark_conf = SparkConf()\nspark_conf.set(\"spark.app.name\",\"prac1\")\nspark_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=spark_conf).getOrCreate()\ndf = spark.createDataFrame(li).toDF('orderid','orderdate','customerid','status')\nn_df = df.withColumn(\"date1\",unix_timestamp(to_date(col(\"orderdate\"))))\\\n                .withColumn(\"monotonic_increase\",monotonically_increasing_id()).\\\n                drop_duplicates([\"orderdate\",\"customerid\"])\\\n                .drop('orderid')\\\n                .sort('orderdate')",
+        "detail": "12-spark_practicals-1",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "12-spark_practicals-1",
+        "description": "12-spark_practicals-1",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=spark_conf).getOrCreate()\ndf = spark.createDataFrame(li).toDF('orderid','orderdate','customerid','status')\nn_df = df.withColumn(\"date1\",unix_timestamp(to_date(col(\"orderdate\"))))\\\n                .withColumn(\"monotonic_increase\",monotonically_increasing_id()).\\\n                drop_duplicates([\"orderdate\",\"customerid\"])\\\n                .drop('orderid')\\\n                .sort('orderdate')\nn_df.show()",
+        "detail": "12-spark_practicals-1",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "12-spark_practicals-1",
+        "description": "12-spark_practicals-1",
+        "peekOfCode": "df = spark.createDataFrame(li).toDF('orderid','orderdate','customerid','status')\nn_df = df.withColumn(\"date1\",unix_timestamp(to_date(col(\"orderdate\"))))\\\n                .withColumn(\"monotonic_increase\",monotonically_increasing_id()).\\\n                drop_duplicates([\"orderdate\",\"customerid\"])\\\n                .drop('orderid')\\\n                .sort('orderdate')\nn_df.show()",
+        "detail": "12-spark_practicals-1",
+        "documentation": {}
+    },
+    {
+        "label": "n_df",
+        "kind": 5,
+        "importPath": "12-spark_practicals-1",
+        "description": "12-spark_practicals-1",
+        "peekOfCode": "n_df = df.withColumn(\"date1\",unix_timestamp(to_date(col(\"orderdate\"))))\\\n                .withColumn(\"monotonic_increase\",monotonically_increasing_id()).\\\n                drop_duplicates([\"orderdate\",\"customerid\"])\\\n                .drop('orderid')\\\n                .sort('orderdate')\nn_df.show()",
+        "detail": "12-spark_practicals-1",
+        "documentation": {}
+    },
+    {
+        "label": "spark_conf",
+        "kind": 5,
+        "importPath": "13-simple_aggregates",
+        "description": "13-simple_aggregates",
+        "peekOfCode": "spark_conf = SparkConf()\nspark_conf.set(\"spark.app.name\",\"aggregates\")\nspark_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=spark_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/order_data.csv\"\norder_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\",
+        "detail": "13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "13-simple_aggregates",
+        "description": "13-simple_aggregates",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=spark_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/order_data.csv\"\norder_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').cache()\n\"Doing simple aggregation by 3 styles\"\n\"\"\"Column Object Expression\"\"\"",
+        "detail": "13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "13-simple_aggregates",
+        "description": "13-simple_aggregates",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/order_data.csv\"\norder_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').cache()\n\"Doing simple aggregation by 3 styles\"\n\"\"\"Column Object Expression\"\"\"\n# For this we need to import all count,sum, avg, counDistict explicitly form pyspark.sql.functions",
+        "detail": "13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "order_schema",
+        "kind": 5,
+        "importPath": "13-simple_aggregates",
+        "description": "13-simple_aggregates",
+        "peekOfCode": "order_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').cache()\n\"Doing simple aggregation by 3 styles\"\n\"\"\"Column Object Expression\"\"\"\n# For this we need to import all count,sum, avg, counDistict explicitly form pyspark.sql.functions\nndf.select(",
+        "detail": "13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "13-simple_aggregates",
+        "description": "13-simple_aggregates",
+        "peekOfCode": "df = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').cache()\n\"Doing simple aggregation by 3 styles\"\n\"\"\"Column Object Expression\"\"\"\n# For this we need to import all count,sum, avg, counDistict explicitly form pyspark.sql.functions\nndf.select(\n    count(\"*\").alias(\"Rowcount\"),",
+        "detail": "13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "ndf",
+        "kind": 5,
+        "importPath": "13-simple_aggregates",
+        "description": "13-simple_aggregates",
+        "peekOfCode": "ndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').cache()\n\"Doing simple aggregation by 3 styles\"\n\"\"\"Column Object Expression\"\"\"\n# For this we need to import all count,sum, avg, counDistict explicitly form pyspark.sql.functions\nndf.select(\n    count(\"*\").alias(\"Rowcount\"),\n    sum(\"Quantity\").alias(\"total_quantity\"),",
+        "detail": "13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "final_df",
+        "kind": 5,
+        "importPath": "13-simple_aggregates",
+        "description": "13-simple_aggregates",
+        "peekOfCode": "final_df = ndf.createOrReplaceTempView(\"orders\")\nresult = spark.sql(\"\"\"\n                SELECT  count(*) as row_count, sum(Quantity) as total_quantity,\n                        avg(UnitPrice) as avg_price,count(distinct(InvoiceNo)) as invoice_count\n                FROM orders\n         \"\"\").show()\nndf.show(5)",
+        "detail": "13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "13-simple_aggregates",
+        "description": "13-simple_aggregates",
+        "peekOfCode": "result = spark.sql(\"\"\"\n                SELECT  count(*) as row_count, sum(Quantity) as total_quantity,\n                        avg(UnitPrice) as avg_price,count(distinct(InvoiceNo)) as invoice_count\n                FROM orders\n         \"\"\").show()\nndf.show(5)",
+        "detail": "13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "spark_conf",
+        "kind": 5,
+        "importPath": "14-grouping_aggregates",
+        "description": "14-grouping_aggregates",
+        "peekOfCode": "spark_conf = SparkConf()\nspark_conf.set(\"spark.app.name\",\"g_aggregates\")\nspark_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=spark_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/order_data.csv\"\norder_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\",
+        "detail": "14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "14-grouping_aggregates",
+        "description": "14-grouping_aggregates",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=spark_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/order_data.csv\"\norder_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').drop('StoackCode')\\\n        .cache()\n\"=== Solving through 'column object expression' ===\"",
+        "detail": "14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "14-grouping_aggregates",
+        "description": "14-grouping_aggregates",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/order_data.csv\"\norder_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').drop('StoackCode')\\\n        .cache()\n\"=== Solving through 'column object expression' ===\"\ncountry_sales = ndf.groupBy('Country','InvoiceNo').agg(sum('quantity').alias(\"total_quantity\"),",
+        "detail": "14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "order_schema",
+        "kind": 5,
+        "importPath": "14-grouping_aggregates",
+        "description": "14-grouping_aggregates",
+        "peekOfCode": "order_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').drop('StoackCode')\\\n        .cache()\n\"=== Solving through 'column object expression' ===\"\ncountry_sales = ndf.groupBy('Country','InvoiceNo').agg(sum('quantity').alias(\"total_quantity\"),\n                                           sum(expr(\"quantity * UnitPrice\")).alias(\"total_value\"))",
+        "detail": "14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "14-grouping_aggregates",
+        "description": "14-grouping_aggregates",
+        "peekOfCode": "df = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').drop('StoackCode')\\\n        .cache()\n\"=== Solving through 'column object expression' ===\"\ncountry_sales = ndf.groupBy('Country','InvoiceNo').agg(sum('quantity').alias(\"total_quantity\"),\n                                           sum(expr(\"quantity * UnitPrice\")).alias(\"total_value\"))\ncountry_sales.show()",
+        "detail": "14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "ndf",
+        "kind": 5,
+        "importPath": "14-grouping_aggregates",
+        "description": "14-grouping_aggregates",
+        "peekOfCode": "ndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').drop('StoackCode')\\\n        .cache()\n\"=== Solving through 'column object expression' ===\"\ncountry_sales = ndf.groupBy('Country','InvoiceNo').agg(sum('quantity').alias(\"total_quantity\"),\n                                           sum(expr(\"quantity * UnitPrice\")).alias(\"total_value\"))\ncountry_sales.show()\n\"=== Solving through 'column string expression' ===\"",
+        "detail": "14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "country_sales",
+        "kind": 5,
+        "importPath": "14-grouping_aggregates",
+        "description": "14-grouping_aggregates",
+        "peekOfCode": "country_sales = ndf.groupBy('Country','InvoiceNo').agg(sum('quantity').alias(\"total_quantity\"),\n                                           sum(expr(\"quantity * UnitPrice\")).alias(\"total_value\"))\ncountry_sales.show()\n\"=== Solving through 'column string expression' ===\"\ncountry_sales_string = ndf.groupBy(\"Country\",\"InvoiceNo\").agg(expr(\"sum(Quantity) as total_quantity\"),\n                                                              expr(\"sum(Quantity * UnitPrice) as total \") )\ncountry_sales_string.show()\n\"=== Solving through 'spark sql' ===\"\norder_table = ndf.createOrReplaceTempView(\"orders\")\nresult = spark.sql(\"\"\"SELECT Country as c ,InvoiceNo,sum(Quantity * UnitPrice) as total_c",
+        "detail": "14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "country_sales_string",
+        "kind": 5,
+        "importPath": "14-grouping_aggregates",
+        "description": "14-grouping_aggregates",
+        "peekOfCode": "country_sales_string = ndf.groupBy(\"Country\",\"InvoiceNo\").agg(expr(\"sum(Quantity) as total_quantity\"),\n                                                              expr(\"sum(Quantity * UnitPrice) as total \") )\ncountry_sales_string.show()\n\"=== Solving through 'spark sql' ===\"\norder_table = ndf.createOrReplaceTempView(\"orders\")\nresult = spark.sql(\"\"\"SELECT Country as c ,InvoiceNo,sum(Quantity * UnitPrice) as total_c\n                        FROM orders\n                         GROUP BY Country, InvoiceNo \"\"\")\nresult.show()\nndf.show(6)",
+        "detail": "14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "order_table",
+        "kind": 5,
+        "importPath": "14-grouping_aggregates",
+        "description": "14-grouping_aggregates",
+        "peekOfCode": "order_table = ndf.createOrReplaceTempView(\"orders\")\nresult = spark.sql(\"\"\"SELECT Country as c ,InvoiceNo,sum(Quantity * UnitPrice) as total_c\n                        FROM orders\n                         GROUP BY Country, InvoiceNo \"\"\")\nresult.show()\nndf.show(6)",
+        "detail": "14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "14-grouping_aggregates",
+        "description": "14-grouping_aggregates",
+        "peekOfCode": "result = spark.sql(\"\"\"SELECT Country as c ,InvoiceNo,sum(Quantity * UnitPrice) as total_c\n                        FROM orders\n                         GROUP BY Country, InvoiceNo \"\"\")\nresult.show()\nndf.show(6)",
+        "detail": "14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "2-SchemaDf",
+        "description": "2-SchemaDf",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"schema_validation\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n\"\"\"\nThere are 2 ways to apply schema :\n    => Struct Type\n    => DDL String\n\"\"\"",
+        "detail": "2-SchemaDf",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "2-SchemaDf",
+        "description": "2-SchemaDf",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n\"\"\"\nThere are 2 ways to apply schema :\n    => Struct Type\n    => DDL String\n\"\"\"\n\"\"\"\nFor this kind of Struct Type you need to import\nfrom pyspark.sql.types import StructType,StructField,IntegerType,TimestampType,StringType",
+        "detail": "2-SchemaDf",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "2-SchemaDf",
+        "description": "2-SchemaDf",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n\"\"\"\nThere are 2 ways to apply schema :\n    => Struct Type\n    => DDL String\n\"\"\"\n\"\"\"\nFor this kind of Struct Type you need to import\nfrom pyspark.sql.types import StructType,StructField,IntegerType,TimestampType,StringType\nfrom 2-SchemaDf import orderSchema",
+        "detail": "2-SchemaDf",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "2-SchemaDf",
+        "description": "2-SchemaDf",
+        "peekOfCode": "orderSchema = StructType([\n    StructField(\"order_id\",IntegerType()),\n    StructField(\"order_date\",TimestampType()),\n    StructField(\"order_customer_id\",IntegerType()),\n    StructField(\"order_status\",StringType())\n])\n\"\"\"\n# TODO - go to this link https://spark.apache.org/docs/latest/sql-ref-datatypes.html\n# ! Go to type table\n# ! SELECT Python",
+        "detail": "2-SchemaDf",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "2-SchemaDf",
+        "description": "2-SchemaDf",
+        "peekOfCode": "orderSchema = \"order_id String, order_date Timestamp, order_customer_id float, order_status string\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\nprint(orderDf.schema)\norderDf.show()",
+        "detail": "2-SchemaDf",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf",
+        "kind": 5,
+        "importPath": "2-SchemaDf",
+        "description": "2-SchemaDf",
+        "peekOfCode": "orderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\nprint(orderDf.schema)\norderDf.show()",
+        "detail": "2-SchemaDf",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "3-write_file",
+        "description": "3-write_file",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"write-file\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()",
+        "detail": "3-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "3-write_file",
+        "description": "3-write_file",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\n\"\"\"\n     when you will write this dataFrame, then number of\n     files as per it's partition number",
+        "detail": "3-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "3-write_file",
+        "description": "3-write_file",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\n\"\"\"\n     when you will write this dataFrame, then number of\n     files as per it's partition number\n     So, if you will check on it's destination write. You can see that, it is saved in 4 partitions.",
+        "detail": "3-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "3-write_file",
+        "description": "3-write_file",
+        "peekOfCode": "orderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\n\"\"\"\n     when you will write this dataFrame, then number of\n     files as per it's partition number\n     So, if you will check on it's destination write. You can see that, it is saved in 4 partitions.\n     advantage of repartition is, it will bring more parallelism.",
+        "detail": "3-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf",
+        "kind": 5,
+        "importPath": "3-write_file",
+        "description": "3-write_file",
+        "peekOfCode": "orderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\n\"\"\"\n     when you will write this dataFrame, then number of\n     files as per it's partition number\n     So, if you will check on it's destination write. You can see that, it is saved in 4 partitions.\n     advantage of repartition is, it will bring more parallelism.\n\"\"\"",
+        "detail": "3-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "dest_path",
+        "kind": 5,
+        "importPath": "3-write_file",
+        "description": "3-write_file",
+        "peekOfCode": "dest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/orders\"\norder_part = orderDf.repartition(5)\n\"\"\"   In case you want to see how many partitions are there  in a dataFrame\n      Then you need to first convert it into Rdd. Then with getNumPartition you see how many\n      partitions are there in a dataFrame.\n      Ex. orderDf_part.rdd.getNumPartitions\n\"\"\"\n# By default file will be saved in Parquet format.\norder_part.write.mode(\"overwrite\")\\\n    .format(\"csv\") \\",
+        "detail": "3-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "order_part",
+        "kind": 5,
+        "importPath": "3-write_file",
+        "description": "3-write_file",
+        "peekOfCode": "order_part = orderDf.repartition(5)\n\"\"\"   In case you want to see how many partitions are there  in a dataFrame\n      Then you need to first convert it into Rdd. Then with getNumPartition you see how many\n      partitions are there in a dataFrame.\n      Ex. orderDf_part.rdd.getNumPartitions\n\"\"\"\n# By default file will be saved in Parquet format.\norder_part.write.mode(\"overwrite\")\\\n    .format(\"csv\") \\\n    .partitionBy(\"order_status\") \\",
+        "detail": "3-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "jar_path",
+        "kind": 5,
+        "importPath": "4-avro_jar",
+        "description": "4-avro_jar",
+        "peekOfCode": "jar_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/spark-avro_2.12-3.3.1.jar\"\nmy_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"write-file\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nmy_conf.set(\"spark.jars\",jar_path)     # add the jar here in conf settings \nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\",
+        "detail": "4-avro_jar",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "4-avro_jar",
+        "description": "4-avro_jar",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"write-file\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nmy_conf.set(\"spark.jars\",jar_path)     # add the jar here in conf settings \nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\",
+        "detail": "4-avro_jar",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "4-avro_jar",
+        "description": "4-avro_jar",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\ndest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/avro/orders\"\norderDf.write.mode(\"overwrite\")\\\n    .format(\"avro\") \\",
+        "detail": "4-avro_jar",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "4-avro_jar",
+        "description": "4-avro_jar",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\ndest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/avro/orders\"\norderDf.write.mode(\"overwrite\")\\\n    .format(\"avro\") \\\n    .option(\"maxRecordsPerFile\",10000) \\",
+        "detail": "4-avro_jar",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "4-avro_jar",
+        "description": "4-avro_jar",
+        "peekOfCode": "orderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\ndest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/avro/orders\"\norderDf.write.mode(\"overwrite\")\\\n    .format(\"avro\") \\\n    .option(\"maxRecordsPerFile\",10000) \\\n    .option(\"path\",dest_path).\\",
+        "detail": "4-avro_jar",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf",
+        "kind": 5,
+        "importPath": "4-avro_jar",
+        "description": "4-avro_jar",
+        "peekOfCode": "orderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\ndest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/avro/orders\"\norderDf.write.mode(\"overwrite\")\\\n    .format(\"avro\") \\\n    .option(\"maxRecordsPerFile\",10000) \\\n    .option(\"path\",dest_path).\\\n    save()",
+        "detail": "4-avro_jar",
+        "documentation": {}
+    },
+    {
+        "label": "dest_path",
+        "kind": 5,
+        "importPath": "4-avro_jar",
+        "description": "4-avro_jar",
+        "peekOfCode": "dest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/avro/orders\"\norderDf.write.mode(\"overwrite\")\\\n    .format(\"avro\") \\\n    .option(\"maxRecordsPerFile\",10000) \\\n    .option(\"path\",dest_path).\\\n    save()",
+        "detail": "4-avro_jar",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "5-spark-sql",
+        "description": "5-spark-sql",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"spark-sql\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norder_df = spark.read.format(\"csv\").option(\"header\",True).schema(orderSchema).option('path',filepath).load()\norder_spark_sql = order_df.createOrReplaceTempView(\"orders\")\nsql_result = spark.sql(\"SELECT * FROM orders\").show()",
+        "detail": "5-spark-sql",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "5-spark-sql",
+        "description": "5-spark-sql",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norder_df = spark.read.format(\"csv\").option(\"header\",True).schema(orderSchema).option('path',filepath).load()\norder_spark_sql = order_df.createOrReplaceTempView(\"orders\")\nsql_result = spark.sql(\"SELECT * FROM orders\").show()",
+        "detail": "5-spark-sql",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "5-spark-sql",
+        "description": "5-spark-sql",
+        "peekOfCode": "orderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norder_df = spark.read.format(\"csv\").option(\"header\",True).schema(orderSchema).option('path',filepath).load()\norder_spark_sql = order_df.createOrReplaceTempView(\"orders\")\nsql_result = spark.sql(\"SELECT * FROM orders\").show()",
+        "detail": "5-spark-sql",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "5-spark-sql",
+        "description": "5-spark-sql",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norder_df = spark.read.format(\"csv\").option(\"header\",True).schema(orderSchema).option('path',filepath).load()\norder_spark_sql = order_df.createOrReplaceTempView(\"orders\")\nsql_result = spark.sql(\"SELECT * FROM orders\").show()",
+        "detail": "5-spark-sql",
+        "documentation": {}
+    },
+    {
+        "label": "order_df",
+        "kind": 5,
+        "importPath": "5-spark-sql",
+        "description": "5-spark-sql",
+        "peekOfCode": "order_df = spark.read.format(\"csv\").option(\"header\",True).schema(orderSchema).option('path',filepath).load()\norder_spark_sql = order_df.createOrReplaceTempView(\"orders\")\nsql_result = spark.sql(\"SELECT * FROM orders\").show()",
+        "detail": "5-spark-sql",
+        "documentation": {}
+    },
+    {
+        "label": "order_spark_sql",
+        "kind": 5,
+        "importPath": "5-spark-sql",
+        "description": "5-spark-sql",
+        "peekOfCode": "order_spark_sql = order_df.createOrReplaceTempView(\"orders\")\nsql_result = spark.sql(\"SELECT * FROM orders\").show()",
+        "detail": "5-spark-sql",
+        "documentation": {}
+    },
+    {
+        "label": "sql_result",
+        "kind": 5,
+        "importPath": "5-spark-sql",
+        "description": "5-spark-sql",
+        "peekOfCode": "sql_result = spark.sql(\"SELECT * FROM orders\").show()",
+        "detail": "5-spark-sql",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "6-spark-tables-part-1",
+        "description": "6-spark-tables-part-1",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"schema_validation\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.\\\n        builder\\\n        .config(conf=my_conf)\\\n        .enableHiveSupport\\\n        .getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"",
+        "detail": "6-spark-tables-part-1",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "6-spark-tables-part-1",
+        "description": "6-spark-tables-part-1",
+        "peekOfCode": "spark = SparkSession.\\\n        builder\\\n        .config(conf=my_conf)\\\n        .enableHiveSupport\\\n        .getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\",
+        "detail": "6-spark-tables-part-1",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "6-spark-tables-part-1",
+        "description": "6-spark-tables-part-1",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\norderDf.write\\\n.format(\"csv\")\\\n.mode(\"overwrite\")\\\n.saveAsTable(\"order_table\")",
+        "detail": "6-spark-tables-part-1",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "6-spark-tables-part-1",
+        "description": "6-spark-tables-part-1",
+        "peekOfCode": "orderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\norderDf.write\\\n.format(\"csv\")\\\n.mode(\"overwrite\")\\\n.saveAsTable(\"order_table\")",
+        "detail": "6-spark-tables-part-1",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf",
+        "kind": 5,
+        "importPath": "6-spark-tables-part-1",
+        "description": "6-spark-tables-part-1",
+        "peekOfCode": "orderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\norderDf.write\\\n.format(\"csv\")\\\n.mode(\"overwrite\")\\\n.saveAsTable(\"order_table\")",
+        "detail": "6-spark-tables-part-1",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "7-spark-tables-part-2",
+        "description": "7-spark-tables-part-2",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"schema_validation\")\nmy_conf.set(\"spark.master\",\"local[*]\")\n#! add .enableHiveSupport property to store meta data of spark table in Hive Meta data.\n#! you will see a new folder metastore_db will be created to store the metastore\nspark = SparkSession.builder\\\n        .config(conf=my_conf)\\\n        .enableHiveSupport()\\\n        .getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"",
+        "detail": "7-spark-tables-part-2",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "7-spark-tables-part-2",
+        "description": "7-spark-tables-part-2",
+        "peekOfCode": "spark = SparkSession.builder\\\n        .config(conf=my_conf)\\\n        .enableHiveSupport()\\\n        .getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()",
+        "detail": "7-spark-tables-part-2",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "7-spark-tables-part-2",
+        "description": "7-spark-tables-part-2",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\n# ! By default it will be saved in spark-warehouse directory.\n# ! in case you want to create a seperate customized warehouse then use below command\n\"==================================\"\n# ! spark.sql(\"create database if not exist retail\") and in saveAstable(\"retail.order2\") command provide this database name",
+        "detail": "7-spark-tables-part-2",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "7-spark-tables-part-2",
+        "description": "7-spark-tables-part-2",
+        "peekOfCode": "orderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\n# ! By default it will be saved in spark-warehouse directory.\n# ! in case you want to create a seperate customized warehouse then use below command\n\"==================================\"\n# ! spark.sql(\"create database if not exist retail\") and in saveAstable(\"retail.order2\") command provide this database name\n# ! with customised table name  as argument",
+        "detail": "7-spark-tables-part-2",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf",
+        "kind": 5,
+        "importPath": "7-spark-tables-part-2",
+        "description": "7-spark-tables-part-2",
+        "peekOfCode": "orderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\n# ! By default it will be saved in spark-warehouse directory.\n# ! in case you want to create a seperate customized warehouse then use below command\n\"==================================\"\n# ! spark.sql(\"create database if not exist retail\") and in saveAstable(\"retail.order2\") command provide this database name\n# ! with customised table name  as argument\n\"===================================\"",
+        "detail": "7-spark-tables-part-2",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "8-Unstructured-data",
+        "description": "8-Unstructured-data",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders_new.txt\"\nmy_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"dealing with unsturctured data\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nbase_rdd = spark.read.format(\"text\").option(\"path\",file_path).load()\n# * when you will see that base rdd. you will notice that data is in single column and column name is value.\n# *base_rdd.show()\nregex_string = '^(\\S+) (\\S+) \\S+  (\\d+),(\\w+)'\nfile_rdd = base_rdd.select(regexp_extract('value',regex_string,1).alias('order_id'),",
+        "detail": "8-Unstructured-data",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "8-Unstructured-data",
+        "description": "8-Unstructured-data",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"dealing with unsturctured data\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nbase_rdd = spark.read.format(\"text\").option(\"path\",file_path).load()\n# * when you will see that base rdd. you will notice that data is in single column and column name is value.\n# *base_rdd.show()\nregex_string = '^(\\S+) (\\S+) \\S+  (\\d+),(\\w+)'\nfile_rdd = base_rdd.select(regexp_extract('value',regex_string,1).alias('order_id'),\n                           regexp_extract('value',regex_string,2).alias('date'),",
+        "detail": "8-Unstructured-data",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "8-Unstructured-data",
+        "description": "8-Unstructured-data",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nbase_rdd = spark.read.format(\"text\").option(\"path\",file_path).load()\n# * when you will see that base rdd. you will notice that data is in single column and column name is value.\n# *base_rdd.show()\nregex_string = '^(\\S+) (\\S+) \\S+  (\\d+),(\\w+)'\nfile_rdd = base_rdd.select(regexp_extract('value',regex_string,1).alias('order_id'),\n                           regexp_extract('value',regex_string,2).alias('date'),\n                           regexp_extract('value',regex_string,3).alias('customer_order_id'),\n                           regexp_extract('value',regex_string,4).alias('status')\n                           ).cache()",
+        "detail": "8-Unstructured-data",
+        "documentation": {}
+    },
+    {
+        "label": "base_rdd",
+        "kind": 5,
+        "importPath": "8-Unstructured-data",
+        "description": "8-Unstructured-data",
+        "peekOfCode": "base_rdd = spark.read.format(\"text\").option(\"path\",file_path).load()\n# * when you will see that base rdd. you will notice that data is in single column and column name is value.\n# *base_rdd.show()\nregex_string = '^(\\S+) (\\S+) \\S+  (\\d+),(\\w+)'\nfile_rdd = base_rdd.select(regexp_extract('value',regex_string,1).alias('order_id'),\n                           regexp_extract('value',regex_string,2).alias('date'),\n                           regexp_extract('value',regex_string,3).alias('customer_order_id'),\n                           regexp_extract('value',regex_string,4).alias('status')\n                           ).cache()\nfile_rdd.show()",
+        "detail": "8-Unstructured-data",
+        "documentation": {}
+    },
+    {
+        "label": "regex_string",
+        "kind": 5,
+        "importPath": "8-Unstructured-data",
+        "description": "8-Unstructured-data",
+        "peekOfCode": "regex_string = '^(\\S+) (\\S+) \\S+  (\\d+),(\\w+)'\nfile_rdd = base_rdd.select(regexp_extract('value',regex_string,1).alias('order_id'),\n                           regexp_extract('value',regex_string,2).alias('date'),\n                           regexp_extract('value',regex_string,3).alias('customer_order_id'),\n                           regexp_extract('value',regex_string,4).alias('status')\n                           ).cache()\nfile_rdd.show()\nfile_rdd.select(\"order_id\",\"status\").where(\"order_id < 4\").show()\nfile_rdd.groupBy('status').count().show()",
+        "detail": "8-Unstructured-data",
+        "documentation": {}
+    },
+    {
+        "label": "file_rdd",
+        "kind": 5,
+        "importPath": "8-Unstructured-data",
+        "description": "8-Unstructured-data",
+        "peekOfCode": "file_rdd = base_rdd.select(regexp_extract('value',regex_string,1).alias('order_id'),\n                           regexp_extract('value',regex_string,2).alias('date'),\n                           regexp_extract('value',regex_string,3).alias('customer_order_id'),\n                           regexp_extract('value',regex_string,4).alias('status')\n                           ).cache()\nfile_rdd.show()\nfile_rdd.select(\"order_id\",\"status\").where(\"order_id < 4\").show()\nfile_rdd.groupBy('status').count().show()",
+        "detail": "8-Unstructured-data",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "9-columns",
+        "description": "9-columns",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"columns\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\n\"\"\"\n  we have file dataset1, which does not have any column name. So, we can use toDf method to provide column name\nsumit,30,bangalore\nkapil,32,hyderabad\nsathish,16,chennai\n\"\"\"",
+        "detail": "9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "9-columns",
+        "description": "9-columns",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\n\"\"\"\n  we have file dataset1, which does not have any column name. So, we can use toDf method to provide column name\nsumit,30,bangalore\nkapil,32,hyderabad\nsathish,16,chennai\n\"\"\"\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()",
+        "detail": "9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "9-columns",
+        "description": "9-columns",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\nname_df.show()\nname_df.printSchema()\n#  adding a new column with twice age\ndf = name_df.withColumn(\"double_age\",col(\"age\").cast(\"Integer\")*2)\ndf.show()\n# changing the value of existing column",
+        "detail": "9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "name_schema",
+        "kind": 5,
+        "importPath": "9-columns",
+        "description": "9-columns",
+        "peekOfCode": "name_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\nname_df.show()\nname_df.printSchema()\n#  adding a new column with twice age\ndf = name_df.withColumn(\"double_age\",col(\"age\").cast(\"Integer\")*2)\ndf.show()\n# changing the value of existing column\nnew_df = df.withColumn(\"age\",col(\"age\").cast(\"Integer\")*100)",
+        "detail": "9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "student_df",
+        "kind": 5,
+        "importPath": "9-columns",
+        "description": "9-columns",
+        "peekOfCode": "student_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\nname_df.show()\nname_df.printSchema()\n#  adding a new column with twice age\ndf = name_df.withColumn(\"double_age\",col(\"age\").cast(\"Integer\")*2)\ndf.show()\n# changing the value of existing column\nnew_df = df.withColumn(\"age\",col(\"age\").cast(\"Integer\")*100)\nnew_df.show()",
+        "detail": "9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "name_df",
+        "kind": 5,
+        "importPath": "9-columns",
+        "description": "9-columns",
+        "peekOfCode": "name_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\nname_df.show()\nname_df.printSchema()\n#  adding a new column with twice age\ndf = name_df.withColumn(\"double_age\",col(\"age\").cast(\"Integer\")*2)\ndf.show()\n# changing the value of existing column\nnew_df = df.withColumn(\"age\",col(\"age\").cast(\"Integer\")*100)\nnew_df.show()",
+        "detail": "9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "9-columns",
+        "description": "9-columns",
+        "peekOfCode": "df = name_df.withColumn(\"double_age\",col(\"age\").cast(\"Integer\")*2)\ndf.show()\n# changing the value of existing column\nnew_df = df.withColumn(\"age\",col(\"age\").cast(\"Integer\")*100)\nnew_df.show()",
+        "detail": "9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "new_df",
+        "kind": 5,
+        "importPath": "9-columns",
+        "description": "9-columns",
+        "peekOfCode": "new_df = df.withColumn(\"age\",col(\"age\").cast(\"Integer\")*100)\nnew_df.show()",
+        "detail": "9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "prac",
+        "description": "prac",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"write-file\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nli = [  ('A','bag',10),\n        ('A','chain',2),\n        ('A','bag',10),\n        ('B','news',20),\n        ('B','shoe',34),\n        ('B','shoe',34),\n        ('B','shoe',34)",
+        "detail": "prac",
+        "documentation": {}
+    },
+    {
+        "label": "li",
+        "kind": 5,
+        "importPath": "prac",
+        "description": "prac",
+        "peekOfCode": "li = [  ('A','bag',10),\n        ('A','chain',2),\n        ('A','bag',10),\n        ('B','news',20),\n        ('B','shoe',34),\n        ('B','shoe',34),\n        ('B','shoe',34)\n      ]\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\ndf = spark.createDataFrame(li).toDF('part_key','item','quantity')",
+        "detail": "prac",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "prac",
+        "description": "prac",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\ndf = spark.createDataFrame(li).toDF('part_key','item','quantity')\nn_df = df.withColumn(\"mid\",monotonically_increasing_id())\ntable_name  = n_df.createOrReplaceTempView('main_table')\nresult = spark.sql(\"\"\"\nwith cte as (SELECT\n    part_key,mid,\n row_number() over(partition by part_key order by mid) as duplicates\n FROM main_table)\n SELECT * FROM cte;",
+        "detail": "prac",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "prac",
+        "description": "prac",
+        "peekOfCode": "df = spark.createDataFrame(li).toDF('part_key','item','quantity')\nn_df = df.withColumn(\"mid\",monotonically_increasing_id())\ntable_name  = n_df.createOrReplaceTempView('main_table')\nresult = spark.sql(\"\"\"\nwith cte as (SELECT\n    part_key,mid,\n row_number() over(partition by part_key order by mid) as duplicates\n FROM main_table)\n SELECT * FROM cte;\n\"\"\").show()",
+        "detail": "prac",
+        "documentation": {}
+    },
+    {
+        "label": "n_df",
+        "kind": 5,
+        "importPath": "prac",
+        "description": "prac",
+        "peekOfCode": "n_df = df.withColumn(\"mid\",monotonically_increasing_id())\ntable_name  = n_df.createOrReplaceTempView('main_table')\nresult = spark.sql(\"\"\"\nwith cte as (SELECT\n    part_key,mid,\n row_number() over(partition by part_key order by mid) as duplicates\n FROM main_table)\n SELECT * FROM cte;\n\"\"\").show()",
+        "detail": "prac",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "prac",
+        "description": "prac",
+        "peekOfCode": "result = spark.sql(\"\"\"\nwith cte as (SELECT\n    part_key,mid,\n row_number() over(partition by part_key order by mid) as duplicates\n FROM main_table)\n SELECT * FROM cte;\n\"\"\").show()",
+        "detail": "prac",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "summary_df",
+        "description": "summary_df",
+        "peekOfCode": "config = SparkConf()\nconfig.set('spark.app.name','summary')\nconfig.set('spark.master','local[*]')\n\"\"\"\nMetaData : spark table metaData is stored in catalog metastore. which is stored in memory (RAM).\n                     So, disadvantage is we can loose it. as memory is not a persistant store.\n                     This is why we prefer it here Hive Meta Store to add this add .enableHiveSupport property in Sparksession\n\"\"\"\nspark = SparkSession.builder\\\n        .config(conf=config)\\",
+        "detail": "summary_df",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "summary_df",
+        "description": "summary_df",
+        "peekOfCode": "spark = SparkSession.builder\\\n        .config(conf=config)\\\n        .enableHiveSupport\\\n        .getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n# TODO - go to this link https://spark.apache.org/docs/latest/sql-ref-datatypes.html\n# ! Go to type table\n# ! SELECT Python\n# ! In the column 'Api to access or create a datatype' remove last part Type() ex. if there is IntegerType() then take\n# ! only Integer and place in the below schema.",
+        "detail": "summary_df",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "summary_df",
+        "description": "summary_df",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n# TODO - go to this link https://spark.apache.org/docs/latest/sql-ref-datatypes.html\n# ! Go to type table\n# ! SELECT Python\n# ! In the column 'Api to access or create a datatype' remove last part Type() ex. if there is IntegerType() then take\n# ! only Integer and place in the below schema.\norderSchema = \"order_id String, order_date Timestamp, order_customer_id float, order_status string\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\",
+        "detail": "summary_df",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "summary_df",
+        "description": "summary_df",
+        "peekOfCode": "orderSchema = \"order_id String, order_date Timestamp, order_customer_id float, order_status string\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\nprint(orderDf.schema)\norderDf.show()\n\"\"\"   In case you want to see how many partitions are there  in a dataFrame\n      Then you need to first convert it into Rdd. Then with getNumPartition you see how many\n      partitions are there in a dataFrame.",
+        "detail": "summary_df",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf",
+        "kind": 5,
+        "importPath": "summary_df",
+        "description": "summary_df",
+        "peekOfCode": "orderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\nprint(orderDf.schema)\norderDf.show()\n\"\"\"   In case you want to see how many partitions are there  in a dataFrame\n      Then you need to first convert it into Rdd. Then with getNumPartition you see how many\n      partitions are there in a dataFrame.\n      Ex. orderDf_part.rdd.getNumPartitions",
+        "detail": "summary_df",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf_part_4",
+        "kind": 5,
+        "importPath": "summary_df",
+        "description": "summary_df",
+        "peekOfCode": "orderDf_part_4 =  orderDf.repartition(4)\ndest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/orders\"\norderDf_part_4.write.mode(\"overwrite\")\\\n    .format(\"csv\")\\\n    .partitionBy(\"order_status\")\\\n    .option(\"maxRecordsPerFile\",2000)\\\n    .option(\"path\",dest_path).\\\n    save()",
+        "detail": "summary_df",
+        "documentation": {}
+    },
+    {
+        "label": "dest_path",
+        "kind": 5,
+        "importPath": "summary_df",
+        "description": "summary_df",
+        "peekOfCode": "dest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/orders\"\norderDf_part_4.write.mode(\"overwrite\")\\\n    .format(\"csv\")\\\n    .partitionBy(\"order_status\")\\\n    .option(\"maxRecordsPerFile\",2000)\\\n    .option(\"path\",dest_path).\\\n    save()",
+        "detail": "summary_df",
+        "documentation": {}
+    }
+]

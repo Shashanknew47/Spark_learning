@@ -3,7 +3,6 @@ package scala_api_2
 import org.apache.spark.SparkConf
 import org.apache.spark.sql.{SaveMode, SparkSession}
 
-
 object w1_write_file {
 
   def main(args: Array[String]): Unit = {
@@ -30,7 +29,7 @@ object w1_write_file {
      advantage of repartition is, it will bring more parallelism. as number of executors is equal to number
      of partitions.
      */
-    val orderDf_part = orderDf.repartition(4)
+//    val orderDf_part = orderDf.repartition(4)
 
     /* In case you want to see how many partitions are there in a dataFrame
       Then you need to first convert it into Rdd. Then with getNumPartition you see how many
@@ -41,11 +40,16 @@ object w1_write_file {
 
     // By default file will be saved parquet format.
     val dest_path = "/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/orders"
-     orderDf_part.write.mode(SaveMode.Overwrite)
+
+    orderDf_part.write.mode(SaveMode.Overwrite)
        .option("path",dest_path).save()
+
 
     orderDf.show()
 
   }
+
+  scala.io.StdIn.readLine()
+
 
 }

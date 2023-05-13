@@ -25,6 +25,7 @@ object w5_spark_tables extends App{
   // if you want to store spark table in a customize database
   spark.sql("CREATE DATABASE IF NOT EXISTS retail")
 
+  // CReating the table form df
   orderDf.write.format("csv")
     .mode(SaveMode.Overwrite)
     .bucketBy(4,"order_customer_id")

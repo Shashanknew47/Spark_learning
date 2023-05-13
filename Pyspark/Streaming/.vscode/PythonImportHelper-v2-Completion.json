@@ -1,0 +1,151 @@
+[
+    {
+        "label": "*",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "pyspark.streaming",
+        "description": "pyspark.streaming",
+        "isExtraImport": true,
+        "detail": "pyspark.streaming",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "pyspark.streaming",
+        "description": "pyspark.streaming",
+        "isExtraImport": true,
+        "detail": "pyspark.streaming",
+        "documentation": {}
+    },
+    {
+        "label": "updatefunc",
+        "kind": 2,
+        "importPath": "statefull_word_count",
+        "description": "statefull_word_count",
+        "peekOfCode": "def updatefunc(newValues,previousState):\n    if previousState is None:\n        previousState = 0\n    return sum(newValues,previousState)\nwords = lines.flatMap(lambda x:x.split(' '))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.updateStateByKey(updatefunc)\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "statefull_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "statefull_word_count",
+        "description": "statefull_word_count",
+        "peekOfCode": "sc = SparkContext(\"local[2]\",\"statefull_app\")\nsc.setLogLevel(\"ERROR\")\nssc = StreamingContext(sc,5)\nlines = ssc.socketTextStream(\"localhost\",9998)\nssc.checkpoint(\"/Users/shashankjain/Desktop/Practice/Spark_learning/Pyspark/Streaming/stream_state_data\")\ndef updatefunc(newValues,previousState):\n    if previousState is None:\n        previousState = 0\n    return sum(newValues,previousState)\nwords = lines.flatMap(lambda x:x.split(' '))",
+        "detail": "statefull_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "ssc",
+        "kind": 5,
+        "importPath": "statefull_word_count",
+        "description": "statefull_word_count",
+        "peekOfCode": "ssc = StreamingContext(sc,5)\nlines = ssc.socketTextStream(\"localhost\",9998)\nssc.checkpoint(\"/Users/shashankjain/Desktop/Practice/Spark_learning/Pyspark/Streaming/stream_state_data\")\ndef updatefunc(newValues,previousState):\n    if previousState is None:\n        previousState = 0\n    return sum(newValues,previousState)\nwords = lines.flatMap(lambda x:x.split(' '))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.updateStateByKey(updatefunc)",
+        "detail": "statefull_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "lines",
+        "kind": 5,
+        "importPath": "statefull_word_count",
+        "description": "statefull_word_count",
+        "peekOfCode": "lines = ssc.socketTextStream(\"localhost\",9998)\nssc.checkpoint(\"/Users/shashankjain/Desktop/Practice/Spark_learning/Pyspark/Streaming/stream_state_data\")\ndef updatefunc(newValues,previousState):\n    if previousState is None:\n        previousState = 0\n    return sum(newValues,previousState)\nwords = lines.flatMap(lambda x:x.split(' '))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.updateStateByKey(updatefunc)\nwordCount.pprint()",
+        "detail": "statefull_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "words",
+        "kind": 5,
+        "importPath": "statefull_word_count",
+        "description": "statefull_word_count",
+        "peekOfCode": "words = lines.flatMap(lambda x:x.split(' '))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.updateStateByKey(updatefunc)\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "statefull_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "pairs",
+        "kind": 5,
+        "importPath": "statefull_word_count",
+        "description": "statefull_word_count",
+        "peekOfCode": "pairs = words.map(lambda x:(x,1))\nwordCount = pairs.updateStateByKey(updatefunc)\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "statefull_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "wordCount",
+        "kind": 5,
+        "importPath": "statefull_word_count",
+        "description": "statefull_word_count",
+        "peekOfCode": "wordCount = pairs.updateStateByKey(updatefunc)\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "statefull_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "stateless_word_count",
+        "description": "stateless_word_count",
+        "peekOfCode": "sc = SparkContext(\"local[2]\",\"streaming_app\")\nsc.setLogLevel(\"ERROR\")\n# creating streaming context\nssc = StreamingContext(sc,5)   # second argument is duration of batch in seconds\n# lines is a Dstream\nlines = ssc.socketTextStream(\"localhost\",9998)\nwords = lines.flatMap(lambda x:x.split(\" \"))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.reduceByKey(lambda x,y:(x + y))\nwordCount.pprint()",
+        "detail": "stateless_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "ssc",
+        "kind": 5,
+        "importPath": "stateless_word_count",
+        "description": "stateless_word_count",
+        "peekOfCode": "ssc = StreamingContext(sc,5)   # second argument is duration of batch in seconds\n# lines is a Dstream\nlines = ssc.socketTextStream(\"localhost\",9998)\nwords = lines.flatMap(lambda x:x.split(\" \"))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.reduceByKey(lambda x,y:(x + y))\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "stateless_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "lines",
+        "kind": 5,
+        "importPath": "stateless_word_count",
+        "description": "stateless_word_count",
+        "peekOfCode": "lines = ssc.socketTextStream(\"localhost\",9998)\nwords = lines.flatMap(lambda x:x.split(\" \"))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.reduceByKey(lambda x,y:(x + y))\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "stateless_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "words",
+        "kind": 5,
+        "importPath": "stateless_word_count",
+        "description": "stateless_word_count",
+        "peekOfCode": "words = lines.flatMap(lambda x:x.split(\" \"))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.reduceByKey(lambda x,y:(x + y))\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "stateless_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "pairs",
+        "kind": 5,
+        "importPath": "stateless_word_count",
+        "description": "stateless_word_count",
+        "peekOfCode": "pairs = words.map(lambda x:(x,1))\nwordCount = pairs.reduceByKey(lambda x,y:(x + y))\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "stateless_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "wordCount",
+        "kind": 5,
+        "importPath": "stateless_word_count",
+        "description": "stateless_word_count",
+        "peekOfCode": "wordCount = pairs.reduceByKey(lambda x,y:(x + y))\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "stateless_word_count",
+        "documentation": {}
+    }
+]

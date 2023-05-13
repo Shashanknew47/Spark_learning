@@ -24,7 +24,7 @@ object w5_avg_for_each_age extends App {
     new_new_format.collect.foreach(println)
 
 
-//    scala.io.StdIn.readLine()
+    scala.io.StdIn.readLine()
 
     }
 

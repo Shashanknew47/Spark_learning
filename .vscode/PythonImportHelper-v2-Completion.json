@@ -1,0 +1,2539 @@
+[
+    {
+        "label": "pyspark",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkContext",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkContext",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkContext",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkContext",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkContext",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkContext",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkContext",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "StorageLevel",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkContext",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkContext",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkContext",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkContext",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkConf",
+        "importPath": "pyspark",
+        "description": "pyspark",
+        "isExtraImport": true,
+        "detail": "pyspark",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "SparkSession",
+        "importPath": "pyspark.sql",
+        "description": "pyspark.sql",
+        "isExtraImport": true,
+        "detail": "pyspark.sql",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "udf",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "udf",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "expr",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "unix_timestamp",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "to_date",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "monotonically_increasing_id",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "regexp_extract",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "to_date",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "sum",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "avg",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "countDistinct",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "to_date",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "regexp_extract",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "sum",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "expr",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "regexp_extract",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "col",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "monotonically_increasing_id",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "importPath": "pyspark.sql.functions",
+        "description": "pyspark.sql.functions",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.functions",
+        "documentation": {}
+    },
+    {
+        "label": "StructType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StructField",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "TimestampType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StructType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StructField",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "TimestampType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "StringType",
+        "importPath": "pyspark.sql.types",
+        "description": "pyspark.sql.types",
+        "isExtraImport": true,
+        "detail": "pyspark.sql.types",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "importPath": "2-SchemaDf",
+        "description": "2-SchemaDf",
+        "isExtraImport": true,
+        "detail": "2-SchemaDf",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "pyspark.streaming",
+        "description": "pyspark.streaming",
+        "isExtraImport": true,
+        "detail": "pyspark.streaming",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "pyspark.streaming",
+        "description": "pyspark.streaming",
+        "isExtraImport": true,
+        "detail": "pyspark.streaming",
+        "documentation": {}
+    },
+    {
+        "label": "format_txt",
+        "kind": 2,
+        "importPath": "Data_sets.data_man",
+        "description": "Data_sets.data_man",
+        "peekOfCode": "def format_txt(string):\n    s = string.split(\",\")\n    return f\"{s[0]} {s[1]}  {s[2]},{s[3]}\"\nwith open(\"orders_new.txt\",'r') as read_file:\n    with open(\"new_order.txt\",'w') as write_file:\n        for i in read_file:\n            write_file.writelines(format_txt(i))",
+        "detail": "Data_sets.data_man",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "description": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"spark_session_conf\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n\"\"\"Note\n    In the case of json header is already inbuilt there with schema. So, you don't need to\n    put header and inferSchema option here.\n    In parquet, orc, avro formats also have inbuilt schema with them. So, don't need to infer it with them.\n\"\"\"",
+        "detail": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "description": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n\"\"\"Note\n    In the case of json header is already inbuilt there with schema. So, you don't need to\n    put header and inferSchema option here.\n    In parquet, orc, avro formats also have inbuilt schema with them. So, don't need to infer it with them.\n\"\"\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .option('inferSchema',True)\\",
+        "detail": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "description": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n\"\"\"Note\n    In the case of json header is already inbuilt there with schema. So, you don't need to\n    put header and inferSchema option here.\n    In parquet, orc, avro formats also have inbuilt schema with them. So, don't need to infer it with them.\n\"\"\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .option('inferSchema',True)\\\n            .option(\"mode\",\"FAILFAST\")\\",
+        "detail": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "description": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "peekOfCode": "orderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .option('inferSchema',True)\\\n            .option(\"mode\",\"FAILFAST\")\\\n            .option('path',filepath).load()\nrorder_df = orderDf.repartition(4)\nbig_idDf = rorder_df.where(\"order_customer_id >10000 and order_id > 100\").\\\n    select(\"order_id\",\"order_customer_id\").\\\n    persist()\ncount_id_df = big_idDf.count()",
+        "detail": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "documentation": {}
+    },
+    {
+        "label": "rorder_df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "description": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "peekOfCode": "rorder_df = orderDf.repartition(4)\nbig_idDf = rorder_df.where(\"order_customer_id >10000 and order_id > 100\").\\\n    select(\"order_id\",\"order_customer_id\").\\\n    persist()\ncount_id_df = big_idDf.count()\nprint(count_id_df)\nbig_idDf.show()",
+        "detail": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "documentation": {}
+    },
+    {
+        "label": "big_idDf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "description": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "peekOfCode": "big_idDf = rorder_df.where(\"order_customer_id >10000 and order_id > 100\").\\\n    select(\"order_id\",\"order_customer_id\").\\\n    persist()\ncount_id_df = big_idDf.count()\nprint(count_id_df)\nbig_idDf.show()",
+        "detail": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "documentation": {}
+    },
+    {
+        "label": "count_id_df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "description": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "peekOfCode": "count_id_df = big_idDf.count()\nprint(count_id_df)\nbig_idDf.show()",
+        "detail": "Pyspark.DataFrames.1-sparkSession_readDf",
+        "documentation": {}
+    },
+    {
+        "label": "age_check",
+        "kind": 2,
+        "importPath": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "description": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "peekOfCode": "def age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nparseAgeFunction = udf(age_check,StringType())\ndf = name_df.withColumn(\"adult\",parseAgeFunction('age'))\ndf.show()",
+        "detail": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "description": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"columns\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:",
+        "detail": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "description": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'",
+        "detail": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "description": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nparseAgeFunction = udf(age_check,StringType())",
+        "detail": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "name_schema",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "description": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "peekOfCode": "name_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nparseAgeFunction = udf(age_check,StringType())\ndf = name_df.withColumn(\"adult\",parseAgeFunction('age'))",
+        "detail": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "student_df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "description": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "peekOfCode": "student_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nparseAgeFunction = udf(age_check,StringType())\ndf = name_df.withColumn(\"adult\",parseAgeFunction('age'))\ndf.show()",
+        "detail": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "name_df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "description": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "peekOfCode": "name_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nparseAgeFunction = udf(age_check,StringType())\ndf = name_df.withColumn(\"adult\",parseAgeFunction('age'))\ndf.show()",
+        "detail": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "parseAgeFunction",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "description": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "peekOfCode": "parseAgeFunction = udf(age_check,StringType())\ndf = name_df.withColumn(\"adult\",parseAgeFunction('age'))\ndf.show()",
+        "detail": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "description": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "peekOfCode": "df = name_df.withColumn(\"adult\",parseAgeFunction('age'))\ndf.show()",
+        "detail": "Pyspark.DataFrames.10-udf_columnObjectExpression",
+        "documentation": {}
+    },
+    {
+        "label": "age_check",
+        "kind": 2,
+        "importPath": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "description": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "peekOfCode": "def age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nspark.udf.register(\"parseAgeFunc\",age_check,StringType())\nfor x in spark.catalog.listFunctions():\n    if x.name == 'parseAgeFunc':\n        print(f'parAgeFunct -- found in spark catalog')\ndf = name_df.withColumn('adult',expr('parseAgeFunc(age)'))",
+        "detail": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "description": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"columns\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:",
+        "detail": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "description": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'",
+        "detail": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "description": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nspark.udf.register(\"parseAgeFunc\",age_check,StringType())",
+        "detail": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "name_schema",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "description": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "peekOfCode": "name_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nspark.udf.register(\"parseAgeFunc\",age_check,StringType())\nfor x in spark.catalog.listFunctions():",
+        "detail": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "student_df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "description": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "peekOfCode": "student_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nspark.udf.register(\"parseAgeFunc\",age_check,StringType())\nfor x in spark.catalog.listFunctions():\n    if x.name == 'parseAgeFunc':",
+        "detail": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "name_df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "description": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "peekOfCode": "name_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\ndef age_check(age):\n    if age > 18:\n        return 'T'\n    else:\n        return 'F'\nspark.udf.register(\"parseAgeFunc\",age_check,StringType())\nfor x in spark.catalog.listFunctions():\n    if x.name == 'parseAgeFunc':\n        print(f'parAgeFunct -- found in spark catalog')",
+        "detail": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "description": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "peekOfCode": "df = name_df.withColumn('adult',expr('parseAgeFunc(age)'))\ndf.show()",
+        "detail": "Pyspark.DataFrames.11-udf_sqlExpression",
+        "documentation": {}
+    },
+    {
+        "label": "li",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.12-spark_practicals-1",
+        "description": "Pyspark.DataFrames.12-spark_practicals-1",
+        "peekOfCode": "li = [(1,\"2013-07-25\",11599,\"CLOSED\"),\n      (2,\"2014-07-25\",256,\"PENDING_PAYMENT\"),\n      (3,\"2013-07-25\",11599,\"COMPLETE\"),\n      (4,\"2019-07-25\", 8827,\"CLOSED\")]\nfrom pyspark import SparkConf\nfrom pyspark.sql import SparkSession\nfrom pyspark.sql.functions import col,unix_timestamp,to_date,monotonically_increasing_id\nspark_conf = SparkConf()\nspark_conf.set(\"spark.app.name\",\"prac1\")\nspark_conf.set(\"spark.master\",\"local[*]\")",
+        "detail": "Pyspark.DataFrames.12-spark_practicals-1",
+        "documentation": {}
+    },
+    {
+        "label": "spark_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.12-spark_practicals-1",
+        "description": "Pyspark.DataFrames.12-spark_practicals-1",
+        "peekOfCode": "spark_conf = SparkConf()\nspark_conf.set(\"spark.app.name\",\"prac1\")\nspark_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=spark_conf).getOrCreate()\ndf = spark.createDataFrame(li).toDF('orderid','orderdate','customerid','status')\nn_df = df.withColumn(\"date1\",unix_timestamp(to_date(col(\"orderdate\"))))\\\n                .withColumn(\"monotonic_increase\",monotonically_increasing_id()).\\\n                drop_duplicates([\"orderdate\",\"customerid\"])\\\n                .drop('orderid')\\\n                .sort('orderdate')",
+        "detail": "Pyspark.DataFrames.12-spark_practicals-1",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.12-spark_practicals-1",
+        "description": "Pyspark.DataFrames.12-spark_practicals-1",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=spark_conf).getOrCreate()\ndf = spark.createDataFrame(li).toDF('orderid','orderdate','customerid','status')\nn_df = df.withColumn(\"date1\",unix_timestamp(to_date(col(\"orderdate\"))))\\\n                .withColumn(\"monotonic_increase\",monotonically_increasing_id()).\\\n                drop_duplicates([\"orderdate\",\"customerid\"])\\\n                .drop('orderid')\\\n                .sort('orderdate')\nn_df.show()",
+        "detail": "Pyspark.DataFrames.12-spark_practicals-1",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.12-spark_practicals-1",
+        "description": "Pyspark.DataFrames.12-spark_practicals-1",
+        "peekOfCode": "df = spark.createDataFrame(li).toDF('orderid','orderdate','customerid','status')\nn_df = df.withColumn(\"date1\",unix_timestamp(to_date(col(\"orderdate\"))))\\\n                .withColumn(\"monotonic_increase\",monotonically_increasing_id()).\\\n                drop_duplicates([\"orderdate\",\"customerid\"])\\\n                .drop('orderid')\\\n                .sort('orderdate')\nn_df.show()",
+        "detail": "Pyspark.DataFrames.12-spark_practicals-1",
+        "documentation": {}
+    },
+    {
+        "label": "n_df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.12-spark_practicals-1",
+        "description": "Pyspark.DataFrames.12-spark_practicals-1",
+        "peekOfCode": "n_df = df.withColumn(\"date1\",unix_timestamp(to_date(col(\"orderdate\"))))\\\n                .withColumn(\"monotonic_increase\",monotonically_increasing_id()).\\\n                drop_duplicates([\"orderdate\",\"customerid\"])\\\n                .drop('orderid')\\\n                .sort('orderdate')\nn_df.show()",
+        "detail": "Pyspark.DataFrames.12-spark_practicals-1",
+        "documentation": {}
+    },
+    {
+        "label": "spark_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.13-simple_aggregates",
+        "description": "Pyspark.DataFrames.13-simple_aggregates",
+        "peekOfCode": "spark_conf = SparkConf()\nspark_conf.set(\"spark.app.name\",\"aggregates\")\nspark_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=spark_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/order_data.csv\"\norder_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\",
+        "detail": "Pyspark.DataFrames.13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.13-simple_aggregates",
+        "description": "Pyspark.DataFrames.13-simple_aggregates",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=spark_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/order_data.csv\"\norder_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').cache()\n\"Doing simple aggregation by 3 styles\"\n\"\"\"Column Object Expression\"\"\"",
+        "detail": "Pyspark.DataFrames.13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.13-simple_aggregates",
+        "description": "Pyspark.DataFrames.13-simple_aggregates",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/order_data.csv\"\norder_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').cache()\n\"Doing simple aggregation by 3 styles\"\n\"\"\"Column Object Expression\"\"\"\n# For this we need to import all count,sum, avg, counDistict explicitly form pyspark.sql.functions",
+        "detail": "Pyspark.DataFrames.13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "order_schema",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.13-simple_aggregates",
+        "description": "Pyspark.DataFrames.13-simple_aggregates",
+        "peekOfCode": "order_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').cache()\n\"Doing simple aggregation by 3 styles\"\n\"\"\"Column Object Expression\"\"\"\n# For this we need to import all count,sum, avg, counDistict explicitly form pyspark.sql.functions\nndf.select(",
+        "detail": "Pyspark.DataFrames.13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.13-simple_aggregates",
+        "description": "Pyspark.DataFrames.13-simple_aggregates",
+        "peekOfCode": "df = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').cache()\n\"Doing simple aggregation by 3 styles\"\n\"\"\"Column Object Expression\"\"\"\n# For this we need to import all count,sum, avg, counDistict explicitly form pyspark.sql.functions\nndf.select(\n    count(\"*\").alias(\"Rowcount\"),",
+        "detail": "Pyspark.DataFrames.13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "ndf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.13-simple_aggregates",
+        "description": "Pyspark.DataFrames.13-simple_aggregates",
+        "peekOfCode": "ndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').cache()\n\"Doing simple aggregation by 3 styles\"\n\"\"\"Column Object Expression\"\"\"\n# For this we need to import all count,sum, avg, counDistict explicitly form pyspark.sql.functions\nndf.select(\n    count(\"*\").alias(\"Rowcount\"),\n    sum(\"Quantity\").alias(\"total_quantity\"),",
+        "detail": "Pyspark.DataFrames.13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "final_df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.13-simple_aggregates",
+        "description": "Pyspark.DataFrames.13-simple_aggregates",
+        "peekOfCode": "final_df = ndf.createOrReplaceTempView(\"orders\")\nresult = spark.sql(\"\"\"\n                SELECT  count(*) as row_count, sum(Quantity) as total_quantity,\n                        avg(UnitPrice) as avg_price,count(distinct(InvoiceNo)) as invoice_count\n                FROM orders\n         \"\"\").show()\nndf.show(5)",
+        "detail": "Pyspark.DataFrames.13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.13-simple_aggregates",
+        "description": "Pyspark.DataFrames.13-simple_aggregates",
+        "peekOfCode": "result = spark.sql(\"\"\"\n                SELECT  count(*) as row_count, sum(Quantity) as total_quantity,\n                        avg(UnitPrice) as avg_price,count(distinct(InvoiceNo)) as invoice_count\n                FROM orders\n         \"\"\").show()\nndf.show(5)",
+        "detail": "Pyspark.DataFrames.13-simple_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "spark_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.14-grouping_aggregates",
+        "description": "Pyspark.DataFrames.14-grouping_aggregates",
+        "peekOfCode": "spark_conf = SparkConf()\nspark_conf.set(\"spark.app.name\",\"g_aggregates\")\nspark_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=spark_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/order_data.csv\"\norder_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\",
+        "detail": "Pyspark.DataFrames.14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.14-grouping_aggregates",
+        "description": "Pyspark.DataFrames.14-grouping_aggregates",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=spark_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/order_data.csv\"\norder_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').drop('StoackCode')\\\n        .cache()\n\"=== Solving through 'column object expression' ===\"",
+        "detail": "Pyspark.DataFrames.14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.14-grouping_aggregates",
+        "description": "Pyspark.DataFrames.14-grouping_aggregates",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/order_data.csv\"\norder_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').drop('StoackCode')\\\n        .cache()\n\"=== Solving through 'column object expression' ===\"\ncountry_sales = ndf.groupBy('Country','InvoiceNo').agg(sum('quantity').alias(\"total_quantity\"),",
+        "detail": "Pyspark.DataFrames.14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "order_schema",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.14-grouping_aggregates",
+        "description": "Pyspark.DataFrames.14-grouping_aggregates",
+        "peekOfCode": "order_schema = \"InvoiceNo Integer,StockCode String ,Description String ,Quantity Integer,InvoiceDate String,UnitPrice Float,CustomerID Integer ,Country String \"\ndf = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').drop('StoackCode')\\\n        .cache()\n\"=== Solving through 'column object expression' ===\"\ncountry_sales = ndf.groupBy('Country','InvoiceNo').agg(sum('quantity').alias(\"total_quantity\"),\n                                           sum(expr(\"quantity * UnitPrice\")).alias(\"total_value\"))",
+        "detail": "Pyspark.DataFrames.14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.14-grouping_aggregates",
+        "description": "Pyspark.DataFrames.14-grouping_aggregates",
+        "peekOfCode": "df = spark.read.format('csv').schema(order_schema).option('header',True).option('path',file_path).load()\nndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').drop('StoackCode')\\\n        .cache()\n\"=== Solving through 'column object expression' ===\"\ncountry_sales = ndf.groupBy('Country','InvoiceNo').agg(sum('quantity').alias(\"total_quantity\"),\n                                           sum(expr(\"quantity * UnitPrice\")).alias(\"total_value\"))\ncountry_sales.show()",
+        "detail": "Pyspark.DataFrames.14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "ndf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.14-grouping_aggregates",
+        "description": "Pyspark.DataFrames.14-grouping_aggregates",
+        "peekOfCode": "ndf = df.withColumn(\"date\",regexp_extract(col('InvoiceDate'),'(\\S+) (\\S+)',1))\\\n        .withColumn(\"date\",to_date(col('date'),'MM-dd-yyyy'))\\\n        .withColumn(\"cost\",col('Quantity')* col('UnitPrice'))\\\n        .drop('InvoiceDate').drop('StoackCode')\\\n        .cache()\n\"=== Solving through 'column object expression' ===\"\ncountry_sales = ndf.groupBy('Country','InvoiceNo').agg(sum('quantity').alias(\"total_quantity\"),\n                                           sum(expr(\"quantity * UnitPrice\")).alias(\"total_value\"))\ncountry_sales.show()\n\"=== Solving through 'column string expression' ===\"",
+        "detail": "Pyspark.DataFrames.14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "country_sales",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.14-grouping_aggregates",
+        "description": "Pyspark.DataFrames.14-grouping_aggregates",
+        "peekOfCode": "country_sales = ndf.groupBy('Country','InvoiceNo').agg(sum('quantity').alias(\"total_quantity\"),\n                                           sum(expr(\"quantity * UnitPrice\")).alias(\"total_value\"))\ncountry_sales.show()\n\"=== Solving through 'column string expression' ===\"\ncountry_sales_string = ndf.groupBy(\"Country\",\"InvoiceNo\").agg(expr(\"sum(Quantity) as total_quantity\"),\n                                                              expr(\"sum(Quantity * UnitPrice) as total \") )\ncountry_sales_string.show()\n\"=== Solving through 'spark sql' ===\"\norder_table = ndf.createOrReplaceTempView(\"orders\")\nresult = spark.sql(\"\"\"SELECT Country as c ,InvoiceNo,sum(Quantity * UnitPrice) as total_c",
+        "detail": "Pyspark.DataFrames.14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "country_sales_string",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.14-grouping_aggregates",
+        "description": "Pyspark.DataFrames.14-grouping_aggregates",
+        "peekOfCode": "country_sales_string = ndf.groupBy(\"Country\",\"InvoiceNo\").agg(expr(\"sum(Quantity) as total_quantity\"),\n                                                              expr(\"sum(Quantity * UnitPrice) as total \") )\ncountry_sales_string.show()\n\"=== Solving through 'spark sql' ===\"\norder_table = ndf.createOrReplaceTempView(\"orders\")\nresult = spark.sql(\"\"\"SELECT Country as c ,InvoiceNo,sum(Quantity * UnitPrice) as total_c\n                        FROM orders\n                         GROUP BY Country, InvoiceNo \"\"\")\nresult.show()\nndf.show(6)",
+        "detail": "Pyspark.DataFrames.14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "order_table",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.14-grouping_aggregates",
+        "description": "Pyspark.DataFrames.14-grouping_aggregates",
+        "peekOfCode": "order_table = ndf.createOrReplaceTempView(\"orders\")\nresult = spark.sql(\"\"\"SELECT Country as c ,InvoiceNo,sum(Quantity * UnitPrice) as total_c\n                        FROM orders\n                         GROUP BY Country, InvoiceNo \"\"\")\nresult.show()\nndf.show(6)",
+        "detail": "Pyspark.DataFrames.14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.14-grouping_aggregates",
+        "description": "Pyspark.DataFrames.14-grouping_aggregates",
+        "peekOfCode": "result = spark.sql(\"\"\"SELECT Country as c ,InvoiceNo,sum(Quantity * UnitPrice) as total_c\n                        FROM orders\n                         GROUP BY Country, InvoiceNo \"\"\")\nresult.show()\nndf.show(6)",
+        "detail": "Pyspark.DataFrames.14-grouping_aggregates",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.2-SchemaDf",
+        "description": "Pyspark.DataFrames.2-SchemaDf",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"schema_validation\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n\"\"\"\nThere are 2 ways to apply schema :\n    => Struct Type\n    => DDL String\n\"\"\"",
+        "detail": "Pyspark.DataFrames.2-SchemaDf",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.2-SchemaDf",
+        "description": "Pyspark.DataFrames.2-SchemaDf",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n\"\"\"\nThere are 2 ways to apply schema :\n    => Struct Type\n    => DDL String\n\"\"\"\n\"\"\"\nFor this kind of Struct Type you need to import\nfrom pyspark.sql.types import StructType,StructField,IntegerType,TimestampType,StringType",
+        "detail": "Pyspark.DataFrames.2-SchemaDf",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.2-SchemaDf",
+        "description": "Pyspark.DataFrames.2-SchemaDf",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n\"\"\"\nThere are 2 ways to apply schema :\n    => Struct Type\n    => DDL String\n\"\"\"\n\"\"\"\nFor this kind of Struct Type you need to import\nfrom pyspark.sql.types import StructType,StructField,IntegerType,TimestampType,StringType\nfrom 2-SchemaDf import orderSchema",
+        "detail": "Pyspark.DataFrames.2-SchemaDf",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.2-SchemaDf",
+        "description": "Pyspark.DataFrames.2-SchemaDf",
+        "peekOfCode": "orderSchema = StructType([\n    StructField(\"order_id\",IntegerType()),\n    StructField(\"order_date\",TimestampType()),\n    StructField(\"order_customer_id\",IntegerType()),\n    StructField(\"order_status\",StringType())\n])\n\"\"\"\n# TODO - go to this link https://spark.apache.org/docs/latest/sql-ref-datatypes.html\n# ! Go to type table\n# ! SELECT Python",
+        "detail": "Pyspark.DataFrames.2-SchemaDf",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.2-SchemaDf",
+        "description": "Pyspark.DataFrames.2-SchemaDf",
+        "peekOfCode": "orderSchema = \"order_id String, order_date Timestamp, order_customer_id float, order_status string\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\nprint(orderDf.schema)\norderDf.show()",
+        "detail": "Pyspark.DataFrames.2-SchemaDf",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.2-SchemaDf",
+        "description": "Pyspark.DataFrames.2-SchemaDf",
+        "peekOfCode": "orderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\nprint(orderDf.schema)\norderDf.show()",
+        "detail": "Pyspark.DataFrames.2-SchemaDf",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.3-write_file",
+        "description": "Pyspark.DataFrames.3-write_file",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"write-file\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()",
+        "detail": "Pyspark.DataFrames.3-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.3-write_file",
+        "description": "Pyspark.DataFrames.3-write_file",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\n\"\"\"\n     when you will write this dataFrame, then number of\n     files as per it's partition number",
+        "detail": "Pyspark.DataFrames.3-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.3-write_file",
+        "description": "Pyspark.DataFrames.3-write_file",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\n\"\"\"\n     when you will write this dataFrame, then number of\n     files as per it's partition number\n     So, if you will check on it's destination write. You can see that, it is saved in 4 partitions.",
+        "detail": "Pyspark.DataFrames.3-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.3-write_file",
+        "description": "Pyspark.DataFrames.3-write_file",
+        "peekOfCode": "orderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\n\"\"\"\n     when you will write this dataFrame, then number of\n     files as per it's partition number\n     So, if you will check on it's destination write. You can see that, it is saved in 4 partitions.\n     advantage of repartition is, it will bring more parallelism.",
+        "detail": "Pyspark.DataFrames.3-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.3-write_file",
+        "description": "Pyspark.DataFrames.3-write_file",
+        "peekOfCode": "orderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\n\"\"\"\n     when you will write this dataFrame, then number of\n     files as per it's partition number\n     So, if you will check on it's destination write. You can see that, it is saved in 4 partitions.\n     advantage of repartition is, it will bring more parallelism.\n\"\"\"",
+        "detail": "Pyspark.DataFrames.3-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "dest_path",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.3-write_file",
+        "description": "Pyspark.DataFrames.3-write_file",
+        "peekOfCode": "dest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/orders\"\norder_part = orderDf.repartition(5)\n\"\"\"   In case you want to see how many partitions are there  in a dataFrame\n      Then you need to first convert it into Rdd. Then with getNumPartition you see how many\n      partitions are there in a dataFrame.\n      Ex. orderDf_part.rdd.getNumPartitions\n\"\"\"\n# By default file will be saved in Parquet format.\norder_part.write.mode(\"overwrite\")\\\n    .format(\"csv\") \\",
+        "detail": "Pyspark.DataFrames.3-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "order_part",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.3-write_file",
+        "description": "Pyspark.DataFrames.3-write_file",
+        "peekOfCode": "order_part = orderDf.repartition(5)\n\"\"\"   In case you want to see how many partitions are there  in a dataFrame\n      Then you need to first convert it into Rdd. Then with getNumPartition you see how many\n      partitions are there in a dataFrame.\n      Ex. orderDf_part.rdd.getNumPartitions\n\"\"\"\n# By default file will be saved in Parquet format.\norder_part.write.mode(\"overwrite\")\\\n    .format(\"csv\") \\\n    .partitionBy(\"order_status\") \\",
+        "detail": "Pyspark.DataFrames.3-write_file",
+        "documentation": {}
+    },
+    {
+        "label": "jar_path",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.4-avro_jar",
+        "description": "Pyspark.DataFrames.4-avro_jar",
+        "peekOfCode": "jar_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/spark-avro_2.12-3.3.1.jar\"\nmy_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"write-file\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nmy_conf.set(\"spark.jars\",jar_path)     # add the jar here in conf settings \nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\",
+        "detail": "Pyspark.DataFrames.4-avro_jar",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.4-avro_jar",
+        "description": "Pyspark.DataFrames.4-avro_jar",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"write-file\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nmy_conf.set(\"spark.jars\",jar_path)     # add the jar here in conf settings \nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\",
+        "detail": "Pyspark.DataFrames.4-avro_jar",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.4-avro_jar",
+        "description": "Pyspark.DataFrames.4-avro_jar",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\ndest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/avro/orders\"\norderDf.write.mode(\"overwrite\")\\\n    .format(\"avro\") \\",
+        "detail": "Pyspark.DataFrames.4-avro_jar",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.4-avro_jar",
+        "description": "Pyspark.DataFrames.4-avro_jar",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\ndest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/avro/orders\"\norderDf.write.mode(\"overwrite\")\\\n    .format(\"avro\") \\\n    .option(\"maxRecordsPerFile\",10000) \\",
+        "detail": "Pyspark.DataFrames.4-avro_jar",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.4-avro_jar",
+        "description": "Pyspark.DataFrames.4-avro_jar",
+        "peekOfCode": "orderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\ndest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/avro/orders\"\norderDf.write.mode(\"overwrite\")\\\n    .format(\"avro\") \\\n    .option(\"maxRecordsPerFile\",10000) \\\n    .option(\"path\",dest_path).\\",
+        "detail": "Pyspark.DataFrames.4-avro_jar",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.4-avro_jar",
+        "description": "Pyspark.DataFrames.4-avro_jar",
+        "peekOfCode": "orderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',file_path).load()\ndest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/avro/orders\"\norderDf.write.mode(\"overwrite\")\\\n    .format(\"avro\") \\\n    .option(\"maxRecordsPerFile\",10000) \\\n    .option(\"path\",dest_path).\\\n    save()",
+        "detail": "Pyspark.DataFrames.4-avro_jar",
+        "documentation": {}
+    },
+    {
+        "label": "dest_path",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.4-avro_jar",
+        "description": "Pyspark.DataFrames.4-avro_jar",
+        "peekOfCode": "dest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/avro/orders\"\norderDf.write.mode(\"overwrite\")\\\n    .format(\"avro\") \\\n    .option(\"maxRecordsPerFile\",10000) \\\n    .option(\"path\",dest_path).\\\n    save()",
+        "detail": "Pyspark.DataFrames.4-avro_jar",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.5-spark-sql",
+        "description": "Pyspark.DataFrames.5-spark-sql",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"spark-sql\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norder_df = spark.read.format(\"csv\").option(\"header\",True).schema(orderSchema).option('path',filepath).load()\norder_spark_sql = order_df.createOrReplaceTempView(\"orders\")\nsql_result = spark.sql(\"SELECT * FROM orders\").show()",
+        "detail": "Pyspark.DataFrames.5-spark-sql",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.5-spark-sql",
+        "description": "Pyspark.DataFrames.5-spark-sql",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norder_df = spark.read.format(\"csv\").option(\"header\",True).schema(orderSchema).option('path',filepath).load()\norder_spark_sql = order_df.createOrReplaceTempView(\"orders\")\nsql_result = spark.sql(\"SELECT * FROM orders\").show()",
+        "detail": "Pyspark.DataFrames.5-spark-sql",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.5-spark-sql",
+        "description": "Pyspark.DataFrames.5-spark-sql",
+        "peekOfCode": "orderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norder_df = spark.read.format(\"csv\").option(\"header\",True).schema(orderSchema).option('path',filepath).load()\norder_spark_sql = order_df.createOrReplaceTempView(\"orders\")\nsql_result = spark.sql(\"SELECT * FROM orders\").show()",
+        "detail": "Pyspark.DataFrames.5-spark-sql",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.5-spark-sql",
+        "description": "Pyspark.DataFrames.5-spark-sql",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norder_df = spark.read.format(\"csv\").option(\"header\",True).schema(orderSchema).option('path',filepath).load()\norder_spark_sql = order_df.createOrReplaceTempView(\"orders\")\nsql_result = spark.sql(\"SELECT * FROM orders\").show()",
+        "detail": "Pyspark.DataFrames.5-spark-sql",
+        "documentation": {}
+    },
+    {
+        "label": "order_df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.5-spark-sql",
+        "description": "Pyspark.DataFrames.5-spark-sql",
+        "peekOfCode": "order_df = spark.read.format(\"csv\").option(\"header\",True).schema(orderSchema).option('path',filepath).load()\norder_spark_sql = order_df.createOrReplaceTempView(\"orders\")\nsql_result = spark.sql(\"SELECT * FROM orders\").show()",
+        "detail": "Pyspark.DataFrames.5-spark-sql",
+        "documentation": {}
+    },
+    {
+        "label": "order_spark_sql",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.5-spark-sql",
+        "description": "Pyspark.DataFrames.5-spark-sql",
+        "peekOfCode": "order_spark_sql = order_df.createOrReplaceTempView(\"orders\")\nsql_result = spark.sql(\"SELECT * FROM orders\").show()",
+        "detail": "Pyspark.DataFrames.5-spark-sql",
+        "documentation": {}
+    },
+    {
+        "label": "sql_result",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.5-spark-sql",
+        "description": "Pyspark.DataFrames.5-spark-sql",
+        "peekOfCode": "sql_result = spark.sql(\"SELECT * FROM orders\").show()",
+        "detail": "Pyspark.DataFrames.5-spark-sql",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "description": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"schema_validation\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.\\\n        builder\\\n        .config(conf=my_conf)\\\n        .enableHiveSupport\\\n        .getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"",
+        "detail": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "description": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "peekOfCode": "spark = SparkSession.\\\n        builder\\\n        .config(conf=my_conf)\\\n        .enableHiveSupport\\\n        .getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\",
+        "detail": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "description": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\norderDf.write\\\n.format(\"csv\")\\\n.mode(\"overwrite\")\\\n.saveAsTable(\"order_table\")",
+        "detail": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "description": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "peekOfCode": "orderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\norderDf.write\\\n.format(\"csv\")\\\n.mode(\"overwrite\")\\\n.saveAsTable(\"order_table\")",
+        "detail": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "description": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "peekOfCode": "orderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\norderDf.write\\\n.format(\"csv\")\\\n.mode(\"overwrite\")\\\n.saveAsTable(\"order_table\")",
+        "detail": "Pyspark.DataFrames.6-spark-tables-part-1",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "description": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"schema_validation\")\nmy_conf.set(\"spark.master\",\"local[*]\")\n#! add .enableHiveSupport property to store meta data of spark table in Hive Meta data.\n#! you will see a new folder metastore_db will be created to store the metastore\nspark = SparkSession.builder\\\n        .config(conf=my_conf)\\\n        .enableHiveSupport()\\\n        .getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"",
+        "detail": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "description": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "peekOfCode": "spark = SparkSession.builder\\\n        .config(conf=my_conf)\\\n        .enableHiveSupport()\\\n        .getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()",
+        "detail": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "description": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\n# ! By default it will be saved in spark-warehouse directory.\n# ! in case you want to create a seperate customized warehouse then use below command\n\"==================================\"\n# ! spark.sql(\"create database if not exist retail\") and in saveAstable(\"retail.order2\") command provide this database name",
+        "detail": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "description": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "peekOfCode": "orderSchema = \"order_id Integer, order_date Timestamp, order_customer_id Integer, order_status String\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\n# ! By default it will be saved in spark-warehouse directory.\n# ! in case you want to create a seperate customized warehouse then use below command\n\"==================================\"\n# ! spark.sql(\"create database if not exist retail\") and in saveAstable(\"retail.order2\") command provide this database name\n# ! with customised table name  as argument",
+        "detail": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "description": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "peekOfCode": "orderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\n# ! By default it will be saved in spark-warehouse directory.\n# ! in case you want to create a seperate customized warehouse then use below command\n\"==================================\"\n# ! spark.sql(\"create database if not exist retail\") and in saveAstable(\"retail.order2\") command provide this database name\n# ! with customised table name  as argument\n\"===================================\"",
+        "detail": "Pyspark.DataFrames.7-spark-tables-part-2",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.8-Unstructured-data",
+        "description": "Pyspark.DataFrames.8-Unstructured-data",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders_new.txt\"\nmy_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"dealing with unsturctured data\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nbase_rdd = spark.read.format(\"text\").option(\"path\",file_path).load()\n# * when you will see that base rdd. you will notice that data is in single column and column name is value.\n# *base_rdd.show()\nregex_string = '^(\\S+) (\\S+) \\S+  (\\d+),(\\w+)'\nfile_rdd = base_rdd.select(regexp_extract('value',regex_string,1).alias('order_id'),",
+        "detail": "Pyspark.DataFrames.8-Unstructured-data",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.8-Unstructured-data",
+        "description": "Pyspark.DataFrames.8-Unstructured-data",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"dealing with unsturctured data\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nbase_rdd = spark.read.format(\"text\").option(\"path\",file_path).load()\n# * when you will see that base rdd. you will notice that data is in single column and column name is value.\n# *base_rdd.show()\nregex_string = '^(\\S+) (\\S+) \\S+  (\\d+),(\\w+)'\nfile_rdd = base_rdd.select(regexp_extract('value',regex_string,1).alias('order_id'),\n                           regexp_extract('value',regex_string,2).alias('date'),",
+        "detail": "Pyspark.DataFrames.8-Unstructured-data",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.8-Unstructured-data",
+        "description": "Pyspark.DataFrames.8-Unstructured-data",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\nbase_rdd = spark.read.format(\"text\").option(\"path\",file_path).load()\n# * when you will see that base rdd. you will notice that data is in single column and column name is value.\n# *base_rdd.show()\nregex_string = '^(\\S+) (\\S+) \\S+  (\\d+),(\\w+)'\nfile_rdd = base_rdd.select(regexp_extract('value',regex_string,1).alias('order_id'),\n                           regexp_extract('value',regex_string,2).alias('date'),\n                           regexp_extract('value',regex_string,3).alias('customer_order_id'),\n                           regexp_extract('value',regex_string,4).alias('status')\n                           ).cache()",
+        "detail": "Pyspark.DataFrames.8-Unstructured-data",
+        "documentation": {}
+    },
+    {
+        "label": "base_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.8-Unstructured-data",
+        "description": "Pyspark.DataFrames.8-Unstructured-data",
+        "peekOfCode": "base_rdd = spark.read.format(\"text\").option(\"path\",file_path).load()\n# * when you will see that base rdd. you will notice that data is in single column and column name is value.\n# *base_rdd.show()\nregex_string = '^(\\S+) (\\S+) \\S+  (\\d+),(\\w+)'\nfile_rdd = base_rdd.select(regexp_extract('value',regex_string,1).alias('order_id'),\n                           regexp_extract('value',regex_string,2).alias('date'),\n                           regexp_extract('value',regex_string,3).alias('customer_order_id'),\n                           regexp_extract('value',regex_string,4).alias('status')\n                           ).cache()\nfile_rdd.show()",
+        "detail": "Pyspark.DataFrames.8-Unstructured-data",
+        "documentation": {}
+    },
+    {
+        "label": "regex_string",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.8-Unstructured-data",
+        "description": "Pyspark.DataFrames.8-Unstructured-data",
+        "peekOfCode": "regex_string = '^(\\S+) (\\S+) \\S+  (\\d+),(\\w+)'\nfile_rdd = base_rdd.select(regexp_extract('value',regex_string,1).alias('order_id'),\n                           regexp_extract('value',regex_string,2).alias('date'),\n                           regexp_extract('value',regex_string,3).alias('customer_order_id'),\n                           regexp_extract('value',regex_string,4).alias('status')\n                           ).cache()\nfile_rdd.show()\nfile_rdd.select(\"order_id\",\"status\").where(\"order_id < 4\").show()\nfile_rdd.groupBy('status').count().show()",
+        "detail": "Pyspark.DataFrames.8-Unstructured-data",
+        "documentation": {}
+    },
+    {
+        "label": "file_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.8-Unstructured-data",
+        "description": "Pyspark.DataFrames.8-Unstructured-data",
+        "peekOfCode": "file_rdd = base_rdd.select(regexp_extract('value',regex_string,1).alias('order_id'),\n                           regexp_extract('value',regex_string,2).alias('date'),\n                           regexp_extract('value',regex_string,3).alias('customer_order_id'),\n                           regexp_extract('value',regex_string,4).alias('status')\n                           ).cache()\nfile_rdd.show()\nfile_rdd.select(\"order_id\",\"status\").where(\"order_id < 4\").show()\nfile_rdd.groupBy('status').count().show()",
+        "detail": "Pyspark.DataFrames.8-Unstructured-data",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.9-columns",
+        "description": "Pyspark.DataFrames.9-columns",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"columns\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\n\"\"\"\n  we have file dataset1, which does not have any column name. So, we can use toDf method to provide column name\nsumit,30,bangalore\nkapil,32,hyderabad\nsathish,16,chennai\n\"\"\"",
+        "detail": "Pyspark.DataFrames.9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.9-columns",
+        "description": "Pyspark.DataFrames.9-columns",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\n\"\"\"\n  we have file dataset1, which does not have any column name. So, we can use toDf method to provide column name\nsumit,30,bangalore\nkapil,32,hyderabad\nsathish,16,chennai\n\"\"\"\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()",
+        "detail": "Pyspark.DataFrames.9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.9-columns",
+        "description": "Pyspark.DataFrames.9-columns",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/dataset1\"\nname_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\nname_df.show()\nname_df.printSchema()\n#  adding a new column with twice age\ndf = name_df.withColumn(\"double_age\",col(\"age\").cast(\"Integer\")*2)\ndf.show()\n# changing the value of existing column",
+        "detail": "Pyspark.DataFrames.9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "name_schema",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.9-columns",
+        "description": "Pyspark.DataFrames.9-columns",
+        "peekOfCode": "name_schema = \"name String, age Integer, city String\"\nstudent_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\nname_df.show()\nname_df.printSchema()\n#  adding a new column with twice age\ndf = name_df.withColumn(\"double_age\",col(\"age\").cast(\"Integer\")*2)\ndf.show()\n# changing the value of existing column\nnew_df = df.withColumn(\"age\",col(\"age\").cast(\"Integer\")*100)",
+        "detail": "Pyspark.DataFrames.9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "student_df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.9-columns",
+        "description": "Pyspark.DataFrames.9-columns",
+        "peekOfCode": "student_df = spark.read.format('csv').schema(name_schema).option(\"path\",file_path).load()\nname_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\nname_df.show()\nname_df.printSchema()\n#  adding a new column with twice age\ndf = name_df.withColumn(\"double_age\",col(\"age\").cast(\"Integer\")*2)\ndf.show()\n# changing the value of existing column\nnew_df = df.withColumn(\"age\",col(\"age\").cast(\"Integer\")*100)\nnew_df.show()",
+        "detail": "Pyspark.DataFrames.9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "name_df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.9-columns",
+        "description": "Pyspark.DataFrames.9-columns",
+        "peekOfCode": "name_df = student_df.toDF(\"name\",\"age\",\"city\").cache()\nname_df.show()\nname_df.printSchema()\n#  adding a new column with twice age\ndf = name_df.withColumn(\"double_age\",col(\"age\").cast(\"Integer\")*2)\ndf.show()\n# changing the value of existing column\nnew_df = df.withColumn(\"age\",col(\"age\").cast(\"Integer\")*100)\nnew_df.show()",
+        "detail": "Pyspark.DataFrames.9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.9-columns",
+        "description": "Pyspark.DataFrames.9-columns",
+        "peekOfCode": "df = name_df.withColumn(\"double_age\",col(\"age\").cast(\"Integer\")*2)\ndf.show()\n# changing the value of existing column\nnew_df = df.withColumn(\"age\",col(\"age\").cast(\"Integer\")*100)\nnew_df.show()",
+        "detail": "Pyspark.DataFrames.9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "new_df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.9-columns",
+        "description": "Pyspark.DataFrames.9-columns",
+        "peekOfCode": "new_df = df.withColumn(\"age\",col(\"age\").cast(\"Integer\")*100)\nnew_df.show()",
+        "detail": "Pyspark.DataFrames.9-columns",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.prac",
+        "description": "Pyspark.DataFrames.prac",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"write-file\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nli = [  ('A','bag',10),\n        ('A','chain',2),\n        ('A','bag',10),\n        ('B','news',20),\n        ('B','shoe',34),\n        ('B','shoe',34),\n        ('B','shoe',34)",
+        "detail": "Pyspark.DataFrames.prac",
+        "documentation": {}
+    },
+    {
+        "label": "li",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.prac",
+        "description": "Pyspark.DataFrames.prac",
+        "peekOfCode": "li = [  ('A','bag',10),\n        ('A','chain',2),\n        ('A','bag',10),\n        ('B','news',20),\n        ('B','shoe',34),\n        ('B','shoe',34),\n        ('B','shoe',34)\n      ]\nspark = SparkSession.builder.config(conf=my_conf).getOrCreate()\ndf = spark.createDataFrame(li).toDF('part_key','item','quantity')",
+        "detail": "Pyspark.DataFrames.prac",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.prac",
+        "description": "Pyspark.DataFrames.prac",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).getOrCreate()\ndf = spark.createDataFrame(li).toDF('part_key','item','quantity')\nn_df = df.withColumn(\"mid\",monotonically_increasing_id())\ntable_name  = n_df.createOrReplaceTempView('main_table')\nresult = spark.sql(\"\"\"\nwith cte as (SELECT\n    part_key,mid,\n row_number() over(partition by part_key order by mid) as duplicates\n FROM main_table)\n SELECT * FROM cte;",
+        "detail": "Pyspark.DataFrames.prac",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.prac",
+        "description": "Pyspark.DataFrames.prac",
+        "peekOfCode": "df = spark.createDataFrame(li).toDF('part_key','item','quantity')\nn_df = df.withColumn(\"mid\",monotonically_increasing_id())\ntable_name  = n_df.createOrReplaceTempView('main_table')\nresult = spark.sql(\"\"\"\nwith cte as (SELECT\n    part_key,mid,\n row_number() over(partition by part_key order by mid) as duplicates\n FROM main_table)\n SELECT * FROM cte;\n\"\"\").show()",
+        "detail": "Pyspark.DataFrames.prac",
+        "documentation": {}
+    },
+    {
+        "label": "n_df",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.prac",
+        "description": "Pyspark.DataFrames.prac",
+        "peekOfCode": "n_df = df.withColumn(\"mid\",monotonically_increasing_id())\ntable_name  = n_df.createOrReplaceTempView('main_table')\nresult = spark.sql(\"\"\"\nwith cte as (SELECT\n    part_key,mid,\n row_number() over(partition by part_key order by mid) as duplicates\n FROM main_table)\n SELECT * FROM cte;\n\"\"\").show()",
+        "detail": "Pyspark.DataFrames.prac",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.prac",
+        "description": "Pyspark.DataFrames.prac",
+        "peekOfCode": "result = spark.sql(\"\"\"\nwith cte as (SELECT\n    part_key,mid,\n row_number() over(partition by part_key order by mid) as duplicates\n FROM main_table)\n SELECT * FROM cte;\n\"\"\").show()",
+        "detail": "Pyspark.DataFrames.prac",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.summary_df",
+        "description": "Pyspark.DataFrames.summary_df",
+        "peekOfCode": "config = SparkConf()\nconfig.set('spark.app.name','summary')\nconfig.set('spark.master','local[*]')\n\"\"\"\nMetaData : spark table metaData is stored in catalog metastore. which is stored in memory (RAM).\n                     So, disadvantage is we can loose it. as memory is not a persistant store.\n                     This is why we prefer it here Hive Meta Store to add this add .enableHiveSupport property in Sparksession\n\"\"\"\nspark = SparkSession.builder\\\n        .config(conf=config)\\",
+        "detail": "Pyspark.DataFrames.summary_df",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.summary_df",
+        "description": "Pyspark.DataFrames.summary_df",
+        "peekOfCode": "spark = SparkSession.builder\\\n        .config(conf=config)\\\n        .enableHiveSupport\\\n        .getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n# TODO - go to this link https://spark.apache.org/docs/latest/sql-ref-datatypes.html\n# ! Go to type table\n# ! SELECT Python\n# ! In the column 'Api to access or create a datatype' remove last part Type() ex. if there is IntegerType() then take\n# ! only Integer and place in the below schema.",
+        "detail": "Pyspark.DataFrames.summary_df",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.summary_df",
+        "description": "Pyspark.DataFrames.summary_df",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\n# TODO - go to this link https://spark.apache.org/docs/latest/sql-ref-datatypes.html\n# ! Go to type table\n# ! SELECT Python\n# ! In the column 'Api to access or create a datatype' remove last part Type() ex. if there is IntegerType() then take\n# ! only Integer and place in the below schema.\norderSchema = \"order_id String, order_date Timestamp, order_customer_id float, order_status string\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\",
+        "detail": "Pyspark.DataFrames.summary_df",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.summary_df",
+        "description": "Pyspark.DataFrames.summary_df",
+        "peekOfCode": "orderSchema = \"order_id String, order_date Timestamp, order_customer_id float, order_status string\"\norderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\nprint(orderDf.schema)\norderDf.show()\n\"\"\"   In case you want to see how many partitions are there  in a dataFrame\n      Then you need to first convert it into Rdd. Then with getNumPartition you see how many\n      partitions are there in a dataFrame.",
+        "detail": "Pyspark.DataFrames.summary_df",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.summary_df",
+        "description": "Pyspark.DataFrames.summary_df",
+        "peekOfCode": "orderDf = spark.read.format(\"csv\")\\\n            .option(\"header\",True)\\\n            .schema(orderSchema)\\\n            .option('path',filepath).load()\nprint(orderDf.schema)\norderDf.show()\n\"\"\"   In case you want to see how many partitions are there  in a dataFrame\n      Then you need to first convert it into Rdd. Then with getNumPartition you see how many\n      partitions are there in a dataFrame.\n      Ex. orderDf_part.rdd.getNumPartitions",
+        "detail": "Pyspark.DataFrames.summary_df",
+        "documentation": {}
+    },
+    {
+        "label": "orderDf_part_4",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.summary_df",
+        "description": "Pyspark.DataFrames.summary_df",
+        "peekOfCode": "orderDf_part_4 =  orderDf.repartition(4)\ndest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/orders\"\norderDf_part_4.write.mode(\"overwrite\")\\\n    .format(\"csv\")\\\n    .partitionBy(\"order_status\")\\\n    .option(\"maxRecordsPerFile\",2000)\\\n    .option(\"path\",dest_path).\\\n    save()",
+        "detail": "Pyspark.DataFrames.summary_df",
+        "documentation": {}
+    },
+    {
+        "label": "dest_path",
+        "kind": 5,
+        "importPath": "Pyspark.DataFrames.summary_df",
+        "description": "Pyspark.DataFrames.summary_df",
+        "peekOfCode": "dest_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/write_spark/pyspark/orders\"\norderDf_part_4.write.mode(\"overwrite\")\\\n    .format(\"csv\")\\\n    .partitionBy(\"order_status\")\\\n    .option(\"maxRecordsPerFile\",2000)\\\n    .option(\"path\",dest_path).\\\n    save()",
+        "detail": "Pyspark.DataFrames.summary_df",
+        "documentation": {}
+    },
+    {
+        "label": "updatefunc",
+        "kind": 2,
+        "importPath": "Pyspark.Streaming.statefull_word_count",
+        "description": "Pyspark.Streaming.statefull_word_count",
+        "peekOfCode": "def updatefunc(newValues,previousState):\n    if previousState is None:\n        previousState = 0\n    return sum(newValues,previousState)\nwords = lines.flatMap(lambda x:x.split(' '))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.updateStateByKey(updatefunc)\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "Pyspark.Streaming.statefull_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "Pyspark.Streaming.statefull_word_count",
+        "description": "Pyspark.Streaming.statefull_word_count",
+        "peekOfCode": "sc = SparkContext(\"local[2]\",\"statefull_app\")\nsc.setLogLevel(\"ERROR\")\nssc = StreamingContext(sc,5)\nlines = ssc.socketTextStream(\"localhost\",9998)\nssc.checkpoint(\"/Users/shashankjain/Desktop/Practice/Spark_learning/Pyspark/Streaming/stream_state_data\")\ndef updatefunc(newValues,previousState):\n    if previousState is None:\n        previousState = 0\n    return sum(newValues,previousState)\nwords = lines.flatMap(lambda x:x.split(' '))",
+        "detail": "Pyspark.Streaming.statefull_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "ssc",
+        "kind": 5,
+        "importPath": "Pyspark.Streaming.statefull_word_count",
+        "description": "Pyspark.Streaming.statefull_word_count",
+        "peekOfCode": "ssc = StreamingContext(sc,5)\nlines = ssc.socketTextStream(\"localhost\",9998)\nssc.checkpoint(\"/Users/shashankjain/Desktop/Practice/Spark_learning/Pyspark/Streaming/stream_state_data\")\ndef updatefunc(newValues,previousState):\n    if previousState is None:\n        previousState = 0\n    return sum(newValues,previousState)\nwords = lines.flatMap(lambda x:x.split(' '))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.updateStateByKey(updatefunc)",
+        "detail": "Pyspark.Streaming.statefull_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "lines",
+        "kind": 5,
+        "importPath": "Pyspark.Streaming.statefull_word_count",
+        "description": "Pyspark.Streaming.statefull_word_count",
+        "peekOfCode": "lines = ssc.socketTextStream(\"localhost\",9998)\nssc.checkpoint(\"/Users/shashankjain/Desktop/Practice/Spark_learning/Pyspark/Streaming/stream_state_data\")\ndef updatefunc(newValues,previousState):\n    if previousState is None:\n        previousState = 0\n    return sum(newValues,previousState)\nwords = lines.flatMap(lambda x:x.split(' '))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.updateStateByKey(updatefunc)\nwordCount.pprint()",
+        "detail": "Pyspark.Streaming.statefull_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "words",
+        "kind": 5,
+        "importPath": "Pyspark.Streaming.statefull_word_count",
+        "description": "Pyspark.Streaming.statefull_word_count",
+        "peekOfCode": "words = lines.flatMap(lambda x:x.split(' '))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.updateStateByKey(updatefunc)\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "Pyspark.Streaming.statefull_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "pairs",
+        "kind": 5,
+        "importPath": "Pyspark.Streaming.statefull_word_count",
+        "description": "Pyspark.Streaming.statefull_word_count",
+        "peekOfCode": "pairs = words.map(lambda x:(x,1))\nwordCount = pairs.updateStateByKey(updatefunc)\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "Pyspark.Streaming.statefull_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "wordCount",
+        "kind": 5,
+        "importPath": "Pyspark.Streaming.statefull_word_count",
+        "description": "Pyspark.Streaming.statefull_word_count",
+        "peekOfCode": "wordCount = pairs.updateStateByKey(updatefunc)\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "Pyspark.Streaming.statefull_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "Pyspark.Streaming.stateless_word_count",
+        "description": "Pyspark.Streaming.stateless_word_count",
+        "peekOfCode": "sc = SparkContext(\"local[2]\",\"streaming_app\")\nsc.setLogLevel(\"ERROR\")\n# creating streaming context\nssc = StreamingContext(sc,5)   # second argument is duration of batch in seconds\n# lines is a Dstream\nlines = ssc.socketTextStream(\"localhost\",9998)\nwords = lines.flatMap(lambda x:x.split(\" \"))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.reduceByKey(lambda x,y:(x + y))\nwordCount.pprint()",
+        "detail": "Pyspark.Streaming.stateless_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "ssc",
+        "kind": 5,
+        "importPath": "Pyspark.Streaming.stateless_word_count",
+        "description": "Pyspark.Streaming.stateless_word_count",
+        "peekOfCode": "ssc = StreamingContext(sc,5)   # second argument is duration of batch in seconds\n# lines is a Dstream\nlines = ssc.socketTextStream(\"localhost\",9998)\nwords = lines.flatMap(lambda x:x.split(\" \"))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.reduceByKey(lambda x,y:(x + y))\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "Pyspark.Streaming.stateless_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "lines",
+        "kind": 5,
+        "importPath": "Pyspark.Streaming.stateless_word_count",
+        "description": "Pyspark.Streaming.stateless_word_count",
+        "peekOfCode": "lines = ssc.socketTextStream(\"localhost\",9998)\nwords = lines.flatMap(lambda x:x.split(\" \"))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.reduceByKey(lambda x,y:(x + y))\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "Pyspark.Streaming.stateless_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "words",
+        "kind": 5,
+        "importPath": "Pyspark.Streaming.stateless_word_count",
+        "description": "Pyspark.Streaming.stateless_word_count",
+        "peekOfCode": "words = lines.flatMap(lambda x:x.split(\" \"))\npairs = words.map(lambda x:(x,1))\nwordCount = pairs.reduceByKey(lambda x,y:(x + y))\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "Pyspark.Streaming.stateless_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "pairs",
+        "kind": 5,
+        "importPath": "Pyspark.Streaming.stateless_word_count",
+        "description": "Pyspark.Streaming.stateless_word_count",
+        "peekOfCode": "pairs = words.map(lambda x:(x,1))\nwordCount = pairs.reduceByKey(lambda x,y:(x + y))\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "Pyspark.Streaming.stateless_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "wordCount",
+        "kind": 5,
+        "importPath": "Pyspark.Streaming.stateless_word_count",
+        "description": "Pyspark.Streaming.stateless_word_count",
+        "peekOfCode": "wordCount = pairs.reduceByKey(lambda x,y:(x + y))\nwordCount.pprint()\nssc.start()\nssc.awaitTermination()",
+        "detail": "Pyspark.Streaming.stateless_word_count",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "Pyspark.basics.1-wordcount_broadcast",
+        "description": "Pyspark.basics.1-wordcount_broadcast",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/poem.txt\"\nunwanted_words = ['the','a','to','&','in','of','shall','who','he','from','is','are','that','and']\nsc = SparkContext(\"local[*]\",\"wordcount\")\nsc.setLogLevel(\"ERROR\")\nunwanted = sc.broadcast(unwanted_words)\nfile_load_rdd = sc.textFile(filepath).flatMap(lambda x:x.split()).map(lambda x:x.lower())\nfile_load_tuple = file_load_rdd.map(lambda x:(x,1)).reduceByKey(lambda a,b:(a+b)).sortBy(lambda x:x[1],False)\nfinal_words = file_load_tuple.filter(lambda x:x[0] not in unwanted.value)\nx = final_words.take(20)\nfor i in x:",
+        "detail": "Pyspark.basics.1-wordcount_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "unwanted_words",
+        "kind": 5,
+        "importPath": "Pyspark.basics.1-wordcount_broadcast",
+        "description": "Pyspark.basics.1-wordcount_broadcast",
+        "peekOfCode": "unwanted_words = ['the','a','to','&','in','of','shall','who','he','from','is','are','that','and']\nsc = SparkContext(\"local[*]\",\"wordcount\")\nsc.setLogLevel(\"ERROR\")\nunwanted = sc.broadcast(unwanted_words)\nfile_load_rdd = sc.textFile(filepath).flatMap(lambda x:x.split()).map(lambda x:x.lower())\nfile_load_tuple = file_load_rdd.map(lambda x:(x,1)).reduceByKey(lambda a,b:(a+b)).sortBy(lambda x:x[1],False)\nfinal_words = file_load_tuple.filter(lambda x:x[0] not in unwanted.value)\nx = final_words.take(20)\nfor i in x:\n    print(i)",
+        "detail": "Pyspark.basics.1-wordcount_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "Pyspark.basics.1-wordcount_broadcast",
+        "description": "Pyspark.basics.1-wordcount_broadcast",
+        "peekOfCode": "sc = SparkContext(\"local[*]\",\"wordcount\")\nsc.setLogLevel(\"ERROR\")\nunwanted = sc.broadcast(unwanted_words)\nfile_load_rdd = sc.textFile(filepath).flatMap(lambda x:x.split()).map(lambda x:x.lower())\nfile_load_tuple = file_load_rdd.map(lambda x:(x,1)).reduceByKey(lambda a,b:(a+b)).sortBy(lambda x:x[1],False)\nfinal_words = file_load_tuple.filter(lambda x:x[0] not in unwanted.value)\nx = final_words.take(20)\nfor i in x:\n    print(i)",
+        "detail": "Pyspark.basics.1-wordcount_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "unwanted",
+        "kind": 5,
+        "importPath": "Pyspark.basics.1-wordcount_broadcast",
+        "description": "Pyspark.basics.1-wordcount_broadcast",
+        "peekOfCode": "unwanted = sc.broadcast(unwanted_words)\nfile_load_rdd = sc.textFile(filepath).flatMap(lambda x:x.split()).map(lambda x:x.lower())\nfile_load_tuple = file_load_rdd.map(lambda x:(x,1)).reduceByKey(lambda a,b:(a+b)).sortBy(lambda x:x[1],False)\nfinal_words = file_load_tuple.filter(lambda x:x[0] not in unwanted.value)\nx = final_words.take(20)\nfor i in x:\n    print(i)",
+        "detail": "Pyspark.basics.1-wordcount_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "file_load_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.basics.1-wordcount_broadcast",
+        "description": "Pyspark.basics.1-wordcount_broadcast",
+        "peekOfCode": "file_load_rdd = sc.textFile(filepath).flatMap(lambda x:x.split()).map(lambda x:x.lower())\nfile_load_tuple = file_load_rdd.map(lambda x:(x,1)).reduceByKey(lambda a,b:(a+b)).sortBy(lambda x:x[1],False)\nfinal_words = file_load_tuple.filter(lambda x:x[0] not in unwanted.value)\nx = final_words.take(20)\nfor i in x:\n    print(i)",
+        "detail": "Pyspark.basics.1-wordcount_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "file_load_tuple",
+        "kind": 5,
+        "importPath": "Pyspark.basics.1-wordcount_broadcast",
+        "description": "Pyspark.basics.1-wordcount_broadcast",
+        "peekOfCode": "file_load_tuple = file_load_rdd.map(lambda x:(x,1)).reduceByKey(lambda a,b:(a+b)).sortBy(lambda x:x[1],False)\nfinal_words = file_load_tuple.filter(lambda x:x[0] not in unwanted.value)\nx = final_words.take(20)\nfor i in x:\n    print(i)",
+        "detail": "Pyspark.basics.1-wordcount_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "final_words",
+        "kind": 5,
+        "importPath": "Pyspark.basics.1-wordcount_broadcast",
+        "description": "Pyspark.basics.1-wordcount_broadcast",
+        "peekOfCode": "final_words = file_load_tuple.filter(lambda x:x[0] not in unwanted.value)\nx = final_words.take(20)\nfor i in x:\n    print(i)",
+        "detail": "Pyspark.basics.1-wordcount_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Pyspark.basics.1-wordcount_broadcast",
+        "description": "Pyspark.basics.1-wordcount_broadcast",
+        "peekOfCode": "x = final_words.take(20)\nfor i in x:\n    print(i)",
+        "detail": "Pyspark.basics.1-wordcount_broadcast",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "Pyspark.basics.2-countByValue",
+        "description": "Pyspark.basics.2-countByValue",
+        "peekOfCode": "sc = SparkContext(\"local[*]\",\"movie_star_count\")\nsc.setLogLevel(\"ERROR\")\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/moviedata.data\"\nmovie_rdd = sc.textFile(file_path).map(lambda x:(x.split(\"\\t\")[2]))\n# countByValue will create a dictionary & countByValue is an action\nstar_count_rdd = movie_rdd.countByValue()\n\"\"\"\nCount the number of each star. Ex.\n1,1,2,2,2,3,3,3,3\nResult will be",
+        "detail": "Pyspark.basics.2-countByValue",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.basics.2-countByValue",
+        "description": "Pyspark.basics.2-countByValue",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/moviedata.data\"\nmovie_rdd = sc.textFile(file_path).map(lambda x:(x.split(\"\\t\")[2]))\n# countByValue will create a dictionary & countByValue is an action\nstar_count_rdd = movie_rdd.countByValue()\n\"\"\"\nCount the number of each star. Ex.\n1,1,2,2,2,3,3,3,3\nResult will be\n(1,2)\n(2,3)",
+        "detail": "Pyspark.basics.2-countByValue",
+        "documentation": {}
+    },
+    {
+        "label": "movie_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.basics.2-countByValue",
+        "description": "Pyspark.basics.2-countByValue",
+        "peekOfCode": "movie_rdd = sc.textFile(file_path).map(lambda x:(x.split(\"\\t\")[2]))\n# countByValue will create a dictionary & countByValue is an action\nstar_count_rdd = movie_rdd.countByValue()\n\"\"\"\nCount the number of each star. Ex.\n1,1,2,2,2,3,3,3,3\nResult will be\n(1,2)\n(2,3)\n(3,4)",
+        "detail": "Pyspark.basics.2-countByValue",
+        "documentation": {}
+    },
+    {
+        "label": "star_count_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.basics.2-countByValue",
+        "description": "Pyspark.basics.2-countByValue",
+        "peekOfCode": "star_count_rdd = movie_rdd.countByValue()\n\"\"\"\nCount the number of each star. Ex.\n1,1,2,2,2,3,3,3,3\nResult will be\n(1,2)\n(2,3)\n(3,4)\n\"\"\"\nprint(star_count_rdd)",
+        "detail": "Pyspark.basics.2-countByValue",
+        "documentation": {}
+    },
+    {
+        "label": "base_data",
+        "kind": 2,
+        "importPath": "Pyspark.basics.3-avg_age_connection",
+        "description": "Pyspark.basics.3-avg_age_connection",
+        "peekOfCode": "def base_data(connection_data):\n    list_connections = connection_data.split(\"::\")\n    return (list_connections[2],(float(list_connections[3]),1))\nage_collection = sc.textFile(file_path).map(base_data).reduceByKey(lambda a,b:(a[0]+b[0],a[1]+b[1]))\n# avg_age_collection = age_collection.map(lambda x:(x[0],x[1][0]/x[1][1]))\n#! As now we just need to change the values. So, we can directly change values with mapValues\navg_age_collection = age_collection.mapValues(lambda x:x[0]/x[1])\nfor i in avg_age_collection.collect():\n    print(i)",
+        "detail": "Pyspark.basics.3-avg_age_connection",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "Pyspark.basics.3-avg_age_connection",
+        "description": "Pyspark.basics.3-avg_age_connection",
+        "peekOfCode": "sc = SparkContext(\"local[*]\",\"movie_star_count\")\nsc.setLogLevel(\"ERROR\")\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/friendsdata.csv\"\ndef base_data(connection_data):\n    list_connections = connection_data.split(\"::\")\n    return (list_connections[2],(float(list_connections[3]),1))\nage_collection = sc.textFile(file_path).map(base_data).reduceByKey(lambda a,b:(a[0]+b[0],a[1]+b[1]))\n# avg_age_collection = age_collection.map(lambda x:(x[0],x[1][0]/x[1][1]))\n#! As now we just need to change the values. So, we can directly change values with mapValues\navg_age_collection = age_collection.mapValues(lambda x:x[0]/x[1])",
+        "detail": "Pyspark.basics.3-avg_age_connection",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.basics.3-avg_age_connection",
+        "description": "Pyspark.basics.3-avg_age_connection",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/friendsdata.csv\"\ndef base_data(connection_data):\n    list_connections = connection_data.split(\"::\")\n    return (list_connections[2],(float(list_connections[3]),1))\nage_collection = sc.textFile(file_path).map(base_data).reduceByKey(lambda a,b:(a[0]+b[0],a[1]+b[1]))\n# avg_age_collection = age_collection.map(lambda x:(x[0],x[1][0]/x[1][1]))\n#! As now we just need to change the values. So, we can directly change values with mapValues\navg_age_collection = age_collection.mapValues(lambda x:x[0]/x[1])\nfor i in avg_age_collection.collect():\n    print(i)",
+        "detail": "Pyspark.basics.3-avg_age_connection",
+        "documentation": {}
+    },
+    {
+        "label": "age_collection",
+        "kind": 5,
+        "importPath": "Pyspark.basics.3-avg_age_connection",
+        "description": "Pyspark.basics.3-avg_age_connection",
+        "peekOfCode": "age_collection = sc.textFile(file_path).map(base_data).reduceByKey(lambda a,b:(a[0]+b[0],a[1]+b[1]))\n# avg_age_collection = age_collection.map(lambda x:(x[0],x[1][0]/x[1][1]))\n#! As now we just need to change the values. So, we can directly change values with mapValues\navg_age_collection = age_collection.mapValues(lambda x:x[0]/x[1])\nfor i in avg_age_collection.collect():\n    print(i)",
+        "detail": "Pyspark.basics.3-avg_age_connection",
+        "documentation": {}
+    },
+    {
+        "label": "avg_age_collection",
+        "kind": 5,
+        "importPath": "Pyspark.basics.3-avg_age_connection",
+        "description": "Pyspark.basics.3-avg_age_connection",
+        "peekOfCode": "avg_age_collection = age_collection.mapValues(lambda x:x[0]/x[1])\nfor i in avg_age_collection.collect():\n    print(i)",
+        "detail": "Pyspark.basics.3-avg_age_connection",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.basics.4-Accumulator",
+        "description": "Pyspark.basics.4-Accumulator",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/samplefile.txt\"\nsc = SparkContext(\"local[*]\",\"wordcount\")\nsc.setLogLevel(\"ERROR\")\n# this will give initially 0 value to accumulator\nacc = sc.accumulator(0)\nrdd1 =  sc.textFile(file_path)\nrdd1.foreach(lambda x:acc.add(1) if x == '' else acc.add(0))\nprint(acc.value)\nprint(dir(rdd1))",
+        "detail": "Pyspark.basics.4-Accumulator",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "Pyspark.basics.4-Accumulator",
+        "description": "Pyspark.basics.4-Accumulator",
+        "peekOfCode": "sc = SparkContext(\"local[*]\",\"wordcount\")\nsc.setLogLevel(\"ERROR\")\n# this will give initially 0 value to accumulator\nacc = sc.accumulator(0)\nrdd1 =  sc.textFile(file_path)\nrdd1.foreach(lambda x:acc.add(1) if x == '' else acc.add(0))\nprint(acc.value)\nprint(dir(rdd1))",
+        "detail": "Pyspark.basics.4-Accumulator",
+        "documentation": {}
+    },
+    {
+        "label": "acc",
+        "kind": 5,
+        "importPath": "Pyspark.basics.4-Accumulator",
+        "description": "Pyspark.basics.4-Accumulator",
+        "peekOfCode": "acc = sc.accumulator(0)\nrdd1 =  sc.textFile(file_path)\nrdd1.foreach(lambda x:acc.add(1) if x == '' else acc.add(0))\nprint(acc.value)\nprint(dir(rdd1))",
+        "detail": "Pyspark.basics.4-Accumulator",
+        "documentation": {}
+    },
+    {
+        "label": "rdd1",
+        "kind": 5,
+        "importPath": "Pyspark.basics.4-Accumulator",
+        "description": "Pyspark.basics.4-Accumulator",
+        "peekOfCode": "rdd1 =  sc.textFile(file_path)\nrdd1.foreach(lambda x:acc.add(1) if x == '' else acc.add(0))\nprint(acc.value)\nprint(dir(rdd1))",
+        "detail": "Pyspark.basics.4-Accumulator",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "Pyspark.basics.5-broadcast_varaible",
+        "description": "Pyspark.basics.5-broadcast_varaible",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/poem.txt\"\nboring_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/boringwords.txt\"\nsc = SparkContext(\"local[*]\",\"count_numbers\")\nsc.setLogLevel(\"ERROR\")\ns = set()\nwith open(boring_path,'r') as f:\n    for i in f:\n        s.add(i.strip('\\n'))\nnameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)",
+        "detail": "Pyspark.basics.5-broadcast_varaible",
+        "documentation": {}
+    },
+    {
+        "label": "boring_path",
+        "kind": 5,
+        "importPath": "Pyspark.basics.5-broadcast_varaible",
+        "description": "Pyspark.basics.5-broadcast_varaible",
+        "peekOfCode": "boring_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/boringwords.txt\"\nsc = SparkContext(\"local[*]\",\"count_numbers\")\nsc.setLogLevel(\"ERROR\")\ns = set()\nwith open(boring_path,'r') as f:\n    for i in f:\n        s.add(i.strip('\\n'))\nnameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)\nbase_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\",
+        "detail": "Pyspark.basics.5-broadcast_varaible",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "Pyspark.basics.5-broadcast_varaible",
+        "description": "Pyspark.basics.5-broadcast_varaible",
+        "peekOfCode": "sc = SparkContext(\"local[*]\",\"count_numbers\")\nsc.setLogLevel(\"ERROR\")\ns = set()\nwith open(boring_path,'r') as f:\n    for i in f:\n        s.add(i.strip('\\n'))\nnameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)\nbase_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\\n            .filter(lambda x:not(x in nameSet.value))\\",
+        "detail": "Pyspark.basics.5-broadcast_varaible",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "Pyspark.basics.5-broadcast_varaible",
+        "description": "Pyspark.basics.5-broadcast_varaible",
+        "peekOfCode": "s = set()\nwith open(boring_path,'r') as f:\n    for i in f:\n        s.add(i.strip('\\n'))\nnameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)\nbase_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\\n            .filter(lambda x:not(x in nameSet.value))\\\n            .map(lambda x:(x,1))\nreduced_rdd = base_rdd.reduceByKey(lambda x,y:x+y).sortBy(lambda x:x[1],False)",
+        "detail": "Pyspark.basics.5-broadcast_varaible",
+        "documentation": {}
+    },
+    {
+        "label": "nameSet",
+        "kind": 5,
+        "importPath": "Pyspark.basics.5-broadcast_varaible",
+        "description": "Pyspark.basics.5-broadcast_varaible",
+        "peekOfCode": "nameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)\nbase_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\\n            .filter(lambda x:not(x in nameSet.value))\\\n            .map(lambda x:(x,1))\nreduced_rdd = base_rdd.reduceByKey(lambda x,y:x+y).sortBy(lambda x:x[1],False)\nfor i in reduced_rdd.collect():\n    print(i)",
+        "detail": "Pyspark.basics.5-broadcast_varaible",
+        "documentation": {}
+    },
+    {
+        "label": "base_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.basics.5-broadcast_varaible",
+        "description": "Pyspark.basics.5-broadcast_varaible",
+        "peekOfCode": "base_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\\n            .filter(lambda x:not(x in nameSet.value))\\\n            .map(lambda x:(x,1))\nreduced_rdd = base_rdd.reduceByKey(lambda x,y:x+y).sortBy(lambda x:x[1],False)\nfor i in reduced_rdd.collect():\n    print(i)",
+        "detail": "Pyspark.basics.5-broadcast_varaible",
+        "documentation": {}
+    },
+    {
+        "label": "reduced_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.basics.5-broadcast_varaible",
+        "description": "Pyspark.basics.5-broadcast_varaible",
+        "peekOfCode": "reduced_rdd = base_rdd.reduceByKey(lambda x,y:x+y).sortBy(lambda x:x[1],False)\nfor i in reduced_rdd.collect():\n    print(i)",
+        "detail": "Pyspark.basics.5-broadcast_varaible",
+        "documentation": {}
+    },
+    {
+        "label": "movieId_rating",
+        "kind": 2,
+        "importPath": "Pyspark.basics.5-join",
+        "description": "Pyspark.basics.5-join",
+        "peekOfCode": "def movieId_rating(line):\n    line = line.split('::')\n    movie_id = line[1]\n    rating = int(line[2])\n    return (movie_id,(rating,1))\ndef count_sum(a,b):\n    return ((a[0]+b[0]),(a[1]+b[1]))\nratings_rdd = sc.textFile(ratings_file).map(movieId_rating).reduceByKey(count_sum).filter(lambda x:x[1][1]>1000)\navg_rating_rdd = ratings_rdd.map(lambda x:(x[0],(x[1][0]/x[1][1],x[1][1]))).filter(lambda x:x[1][0]>4)\ndef movieId_name(line):",
+        "detail": "Pyspark.basics.5-join",
+        "documentation": {}
+    },
+    {
+        "label": "count_sum",
+        "kind": 2,
+        "importPath": "Pyspark.basics.5-join",
+        "description": "Pyspark.basics.5-join",
+        "peekOfCode": "def count_sum(a,b):\n    return ((a[0]+b[0]),(a[1]+b[1]))\nratings_rdd = sc.textFile(ratings_file).map(movieId_rating).reduceByKey(count_sum).filter(lambda x:x[1][1]>1000)\navg_rating_rdd = ratings_rdd.map(lambda x:(x[0],(x[1][0]/x[1][1],x[1][1]))).filter(lambda x:x[1][0]>4)\ndef movieId_name(line):\n    line = line.split('::')\n    movie_id = line[0]\n    movie_name = line[1]\n    return (movie_id,movie_name)\nmovies_rdd = sc.textFile(movies_file).map(movieId_name)",
+        "detail": "Pyspark.basics.5-join",
+        "documentation": {}
+    },
+    {
+        "label": "movieId_name",
+        "kind": 2,
+        "importPath": "Pyspark.basics.5-join",
+        "description": "Pyspark.basics.5-join",
+        "peekOfCode": "def movieId_name(line):\n    line = line.split('::')\n    movie_id = line[0]\n    movie_name = line[1]\n    return (movie_id,movie_name)\nmovies_rdd = sc.textFile(movies_file).map(movieId_name)\n# join will be done on the key\njoin_rdd = movies_rdd.join(avg_rating_rdd).map(lambda x:(int(x[0]),x[1])).sortByKey()\nfor i in join_rdd.take(15):\n    print(i)",
+        "detail": "Pyspark.basics.5-join",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "Pyspark.basics.5-join",
+        "description": "Pyspark.basics.5-join",
+        "peekOfCode": "sc = SparkContext(\"local[*]\")\nsc.setLogLevel(\"ERROR\")\nratings_file  = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/ratings.dat\"\nmovies_file = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/movies-dat.dat\"\ndef movieId_rating(line):\n    line = line.split('::')\n    movie_id = line[1]\n    rating = int(line[2])\n    return (movie_id,(rating,1))\ndef count_sum(a,b):",
+        "detail": "Pyspark.basics.5-join",
+        "documentation": {}
+    },
+    {
+        "label": "movies_file",
+        "kind": 5,
+        "importPath": "Pyspark.basics.5-join",
+        "description": "Pyspark.basics.5-join",
+        "peekOfCode": "movies_file = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/movies-dat.dat\"\ndef movieId_rating(line):\n    line = line.split('::')\n    movie_id = line[1]\n    rating = int(line[2])\n    return (movie_id,(rating,1))\ndef count_sum(a,b):\n    return ((a[0]+b[0]),(a[1]+b[1]))\nratings_rdd = sc.textFile(ratings_file).map(movieId_rating).reduceByKey(count_sum).filter(lambda x:x[1][1]>1000)\navg_rating_rdd = ratings_rdd.map(lambda x:(x[0],(x[1][0]/x[1][1],x[1][1]))).filter(lambda x:x[1][0]>4)",
+        "detail": "Pyspark.basics.5-join",
+        "documentation": {}
+    },
+    {
+        "label": "ratings_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.basics.5-join",
+        "description": "Pyspark.basics.5-join",
+        "peekOfCode": "ratings_rdd = sc.textFile(ratings_file).map(movieId_rating).reduceByKey(count_sum).filter(lambda x:x[1][1]>1000)\navg_rating_rdd = ratings_rdd.map(lambda x:(x[0],(x[1][0]/x[1][1],x[1][1]))).filter(lambda x:x[1][0]>4)\ndef movieId_name(line):\n    line = line.split('::')\n    movie_id = line[0]\n    movie_name = line[1]\n    return (movie_id,movie_name)\nmovies_rdd = sc.textFile(movies_file).map(movieId_name)\n# join will be done on the key\njoin_rdd = movies_rdd.join(avg_rating_rdd).map(lambda x:(int(x[0]),x[1])).sortByKey()",
+        "detail": "Pyspark.basics.5-join",
+        "documentation": {}
+    },
+    {
+        "label": "avg_rating_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.basics.5-join",
+        "description": "Pyspark.basics.5-join",
+        "peekOfCode": "avg_rating_rdd = ratings_rdd.map(lambda x:(x[0],(x[1][0]/x[1][1],x[1][1]))).filter(lambda x:x[1][0]>4)\ndef movieId_name(line):\n    line = line.split('::')\n    movie_id = line[0]\n    movie_name = line[1]\n    return (movie_id,movie_name)\nmovies_rdd = sc.textFile(movies_file).map(movieId_name)\n# join will be done on the key\njoin_rdd = movies_rdd.join(avg_rating_rdd).map(lambda x:(int(x[0]),x[1])).sortByKey()\nfor i in join_rdd.take(15):",
+        "detail": "Pyspark.basics.5-join",
+        "documentation": {}
+    },
+    {
+        "label": "movies_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.basics.5-join",
+        "description": "Pyspark.basics.5-join",
+        "peekOfCode": "movies_rdd = sc.textFile(movies_file).map(movieId_name)\n# join will be done on the key\njoin_rdd = movies_rdd.join(avg_rating_rdd).map(lambda x:(int(x[0]),x[1])).sortByKey()\nfor i in join_rdd.take(15):\n    print(i)",
+        "detail": "Pyspark.basics.5-join",
+        "documentation": {}
+    },
+    {
+        "label": "join_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.basics.5-join",
+        "description": "Pyspark.basics.5-join",
+        "peekOfCode": "join_rdd = movies_rdd.join(avg_rating_rdd).map(lambda x:(int(x[0]),x[1])).sortByKey()\nfor i in join_rdd.take(15):\n    print(i)",
+        "detail": "Pyspark.basics.5-join",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "Pyspark.basics.6-cache_persist",
+        "description": "Pyspark.basics.6-cache_persist",
+        "peekOfCode": "sc = SparkContext(\"local[*]\")\nsc.setLogLevel(\"ERROR\")\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/poem.txt\"\nfile_load_rdd = sc.textFile(filepath).flatMap(lambda x:x.split()).map(lambda x:x.lower())\nfile_load_tuple = file_load_rdd.map(lambda x:(x,1)).reduceByKey(lambda a,b:(a+b)).sortBy(lambda x:x[1],False)\n# persist the rdd\nfile_persist_count_rdd = file_load_tuple.persist(storageLevel=StorageLevel.MEMORY_AND_DISK)\ncount_rdd = file_persist_count_rdd.count()\nprint(count_rdd)\nfor i in file_persist_count_rdd.take(20):",
+        "detail": "Pyspark.basics.6-cache_persist",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "Pyspark.basics.6-cache_persist",
+        "description": "Pyspark.basics.6-cache_persist",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/poem.txt\"\nfile_load_rdd = sc.textFile(filepath).flatMap(lambda x:x.split()).map(lambda x:x.lower())\nfile_load_tuple = file_load_rdd.map(lambda x:(x,1)).reduceByKey(lambda a,b:(a+b)).sortBy(lambda x:x[1],False)\n# persist the rdd\nfile_persist_count_rdd = file_load_tuple.persist(storageLevel=StorageLevel.MEMORY_AND_DISK)\ncount_rdd = file_persist_count_rdd.count()\nprint(count_rdd)\nfor i in file_persist_count_rdd.take(20):\n    print(i)",
+        "detail": "Pyspark.basics.6-cache_persist",
+        "documentation": {}
+    },
+    {
+        "label": "file_load_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.basics.6-cache_persist",
+        "description": "Pyspark.basics.6-cache_persist",
+        "peekOfCode": "file_load_rdd = sc.textFile(filepath).flatMap(lambda x:x.split()).map(lambda x:x.lower())\nfile_load_tuple = file_load_rdd.map(lambda x:(x,1)).reduceByKey(lambda a,b:(a+b)).sortBy(lambda x:x[1],False)\n# persist the rdd\nfile_persist_count_rdd = file_load_tuple.persist(storageLevel=StorageLevel.MEMORY_AND_DISK)\ncount_rdd = file_persist_count_rdd.count()\nprint(count_rdd)\nfor i in file_persist_count_rdd.take(20):\n    print(i)",
+        "detail": "Pyspark.basics.6-cache_persist",
+        "documentation": {}
+    },
+    {
+        "label": "file_load_tuple",
+        "kind": 5,
+        "importPath": "Pyspark.basics.6-cache_persist",
+        "description": "Pyspark.basics.6-cache_persist",
+        "peekOfCode": "file_load_tuple = file_load_rdd.map(lambda x:(x,1)).reduceByKey(lambda a,b:(a+b)).sortBy(lambda x:x[1],False)\n# persist the rdd\nfile_persist_count_rdd = file_load_tuple.persist(storageLevel=StorageLevel.MEMORY_AND_DISK)\ncount_rdd = file_persist_count_rdd.count()\nprint(count_rdd)\nfor i in file_persist_count_rdd.take(20):\n    print(i)",
+        "detail": "Pyspark.basics.6-cache_persist",
+        "documentation": {}
+    },
+    {
+        "label": "file_persist_count_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.basics.6-cache_persist",
+        "description": "Pyspark.basics.6-cache_persist",
+        "peekOfCode": "file_persist_count_rdd = file_load_tuple.persist(storageLevel=StorageLevel.MEMORY_AND_DISK)\ncount_rdd = file_persist_count_rdd.count()\nprint(count_rdd)\nfor i in file_persist_count_rdd.take(20):\n    print(i)",
+        "detail": "Pyspark.basics.6-cache_persist",
+        "documentation": {}
+    },
+    {
+        "label": "count_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.basics.6-cache_persist",
+        "description": "Pyspark.basics.6-cache_persist",
+        "peekOfCode": "count_rdd = file_persist_count_rdd.count()\nprint(count_rdd)\nfor i in file_persist_count_rdd.take(20):\n    print(i)",
+        "detail": "Pyspark.basics.6-cache_persist",
+        "documentation": {}
+    },
+    {
+        "label": "base_rdd",
+        "kind": 2,
+        "importPath": "Pyspark.basics.min_temp",
+        "description": "Pyspark.basics.min_temp",
+        "peekOfCode": "def base_rdd(x):\n    base = x.split(\",\")\n    station_id = base[0]\n    temperature = int(base[3])\n    return (station_id,temperature)\nstation_temperature_rdd = sc.textFile(file_path).map(base_rdd).sortBy(lambda x:(x[0],x[1]))\nsorted_rdd_value = station_temperature_rdd.map(lambda x:(x[0],(x[1],1)))\nrdd_row_number = sorted_rdd_value.reduceByKey(lambda a,b: a if a < b else b )\nfor i in rdd_row_number.take(5):\n    print(i)",
+        "detail": "Pyspark.basics.min_temp",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "Pyspark.basics.min_temp",
+        "description": "Pyspark.basics.min_temp",
+        "peekOfCode": "sc = SparkContext(\"local[*]\",\"movie_star_count\")\nsc.setLogLevel(\"ERROR\")\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/tempdata.csv\"\ndef base_rdd(x):\n    base = x.split(\",\")\n    station_id = base[0]\n    temperature = int(base[3])\n    return (station_id,temperature)\nstation_temperature_rdd = sc.textFile(file_path).map(base_rdd).sortBy(lambda x:(x[0],x[1]))\nsorted_rdd_value = station_temperature_rdd.map(lambda x:(x[0],(x[1],1)))",
+        "detail": "Pyspark.basics.min_temp",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.basics.min_temp",
+        "description": "Pyspark.basics.min_temp",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/tempdata.csv\"\ndef base_rdd(x):\n    base = x.split(\",\")\n    station_id = base[0]\n    temperature = int(base[3])\n    return (station_id,temperature)\nstation_temperature_rdd = sc.textFile(file_path).map(base_rdd).sortBy(lambda x:(x[0],x[1]))\nsorted_rdd_value = station_temperature_rdd.map(lambda x:(x[0],(x[1],1)))\nrdd_row_number = sorted_rdd_value.reduceByKey(lambda a,b: a if a < b else b )\nfor i in rdd_row_number.take(5):",
+        "detail": "Pyspark.basics.min_temp",
+        "documentation": {}
+    },
+    {
+        "label": "station_temperature_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.basics.min_temp",
+        "description": "Pyspark.basics.min_temp",
+        "peekOfCode": "station_temperature_rdd = sc.textFile(file_path).map(base_rdd).sortBy(lambda x:(x[0],x[1]))\nsorted_rdd_value = station_temperature_rdd.map(lambda x:(x[0],(x[1],1)))\nrdd_row_number = sorted_rdd_value.reduceByKey(lambda a,b: a if a < b else b )\nfor i in rdd_row_number.take(5):\n    print(i)",
+        "detail": "Pyspark.basics.min_temp",
+        "documentation": {}
+    },
+    {
+        "label": "sorted_rdd_value",
+        "kind": 5,
+        "importPath": "Pyspark.basics.min_temp",
+        "description": "Pyspark.basics.min_temp",
+        "peekOfCode": "sorted_rdd_value = station_temperature_rdd.map(lambda x:(x[0],(x[1],1)))\nrdd_row_number = sorted_rdd_value.reduceByKey(lambda a,b: a if a < b else b )\nfor i in rdd_row_number.take(5):\n    print(i)",
+        "detail": "Pyspark.basics.min_temp",
+        "documentation": {}
+    },
+    {
+        "label": "rdd_row_number",
+        "kind": 5,
+        "importPath": "Pyspark.basics.min_temp",
+        "description": "Pyspark.basics.min_temp",
+        "peekOfCode": "rdd_row_number = sorted_rdd_value.reduceByKey(lambda a,b: a if a < b else b )\nfor i in rdd_row_number.take(5):\n    print(i)",
+        "detail": "Pyspark.basics.min_temp",
+        "documentation": {}
+    },
+    {
+        "label": "age_number",
+        "kind": 2,
+        "importPath": "Pyspark.basics.prac",
+        "description": "Pyspark.basics.prac",
+        "peekOfCode": "def age_number(x):\n    x = x.split(\"::\")\n    age = x[2]\n    number = int(x[3])\n    return (age,(number,1))\nrdd1 = sc.textFile(file_path).map(age_number).reduceByKey(lambda a,b:(a[0]+b[0],a[1]+b[1])).map(lambda x:(x[0],x[1][0]/x[1][1])).take(20)\nfor i in rdd1:\n    print(i)",
+        "detail": "Pyspark.basics.prac",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "Pyspark.basics.prac",
+        "description": "Pyspark.basics.prac",
+        "peekOfCode": "sc = SparkContext(master=\"local[*]\",appName=\"trial\")\nsc.setLogLevel(\"ERROR\")\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/friendsdata.csv\"\ndef age_number(x):\n    x = x.split(\"::\")\n    age = x[2]\n    number = int(x[3])\n    return (age,(number,1))\nrdd1 = sc.textFile(file_path).map(age_number).reduceByKey(lambda a,b:(a[0]+b[0],a[1]+b[1])).map(lambda x:(x[0],x[1][0]/x[1][1])).take(20)\nfor i in rdd1:",
+        "detail": "Pyspark.basics.prac",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.basics.prac",
+        "description": "Pyspark.basics.prac",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/friendsdata.csv\"\ndef age_number(x):\n    x = x.split(\"::\")\n    age = x[2]\n    number = int(x[3])\n    return (age,(number,1))\nrdd1 = sc.textFile(file_path).map(age_number).reduceByKey(lambda a,b:(a[0]+b[0],a[1]+b[1])).map(lambda x:(x[0],x[1][0]/x[1][1])).take(20)\nfor i in rdd1:\n    print(i)",
+        "detail": "Pyspark.basics.prac",
+        "documentation": {}
+    },
+    {
+        "label": "rdd1",
+        "kind": 5,
+        "importPath": "Pyspark.basics.prac",
+        "description": "Pyspark.basics.prac",
+        "peekOfCode": "rdd1 = sc.textFile(file_path).map(age_number).reduceByKey(lambda a,b:(a[0]+b[0],a[1]+b[1])).map(lambda x:(x[0],x[1][0]/x[1][1])).take(20)\nfor i in rdd1:\n    print(i)",
+        "detail": "Pyspark.basics.prac",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.prac.accumulator",
+        "description": "Pyspark.prac.accumulator",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/samplefile.txt\"\nsc = SparkContext(\"local[*]\",\"wordcount\")\nsc.setLogLevel(\"ERROR\")\n# this will give initially 0 value to accumulator\nacc = sc.accumulator(0)\nrdd1 =  sc.textFile(file_path)\nrdd1.foreach(lambda x:acc.add(1) if x == '' else acc.add(0))\nprint(acc.value)\nprint(dir(rdd1))",
+        "detail": "Pyspark.prac.accumulator",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "Pyspark.prac.accumulator",
+        "description": "Pyspark.prac.accumulator",
+        "peekOfCode": "sc = SparkContext(\"local[*]\",\"wordcount\")\nsc.setLogLevel(\"ERROR\")\n# this will give initially 0 value to accumulator\nacc = sc.accumulator(0)\nrdd1 =  sc.textFile(file_path)\nrdd1.foreach(lambda x:acc.add(1) if x == '' else acc.add(0))\nprint(acc.value)\nprint(dir(rdd1))",
+        "detail": "Pyspark.prac.accumulator",
+        "documentation": {}
+    },
+    {
+        "label": "acc",
+        "kind": 5,
+        "importPath": "Pyspark.prac.accumulator",
+        "description": "Pyspark.prac.accumulator",
+        "peekOfCode": "acc = sc.accumulator(0)\nrdd1 =  sc.textFile(file_path)\nrdd1.foreach(lambda x:acc.add(1) if x == '' else acc.add(0))\nprint(acc.value)\nprint(dir(rdd1))",
+        "detail": "Pyspark.prac.accumulator",
+        "documentation": {}
+    },
+    {
+        "label": "rdd1",
+        "kind": 5,
+        "importPath": "Pyspark.prac.accumulator",
+        "description": "Pyspark.prac.accumulator",
+        "peekOfCode": "rdd1 =  sc.textFile(file_path)\nrdd1.foreach(lambda x:acc.add(1) if x == '' else acc.add(0))\nprint(acc.value)\nprint(dir(rdd1))",
+        "detail": "Pyspark.prac.accumulator",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "Pyspark.prac.brodcast_variable",
+        "description": "Pyspark.prac.brodcast_variable",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/poem.txt\"\nboring_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/boringwords.txt\"\nsc = SparkContext(\"local[*]\",\"count_numbers\")\nsc.setLogLevel(\"ERROR\")\ns = set()\nwith open(boring_path,'r') as f:\n    for i in f:\n        s.add(i.strip('\\n'))\nnameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)",
+        "detail": "Pyspark.prac.brodcast_variable",
+        "documentation": {}
+    },
+    {
+        "label": "boring_path",
+        "kind": 5,
+        "importPath": "Pyspark.prac.brodcast_variable",
+        "description": "Pyspark.prac.brodcast_variable",
+        "peekOfCode": "boring_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/boringwords.txt\"\nsc = SparkContext(\"local[*]\",\"count_numbers\")\nsc.setLogLevel(\"ERROR\")\ns = set()\nwith open(boring_path,'r') as f:\n    for i in f:\n        s.add(i.strip('\\n'))\nnameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)\nbase_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\",
+        "detail": "Pyspark.prac.brodcast_variable",
+        "documentation": {}
+    },
+    {
+        "label": "sc",
+        "kind": 5,
+        "importPath": "Pyspark.prac.brodcast_variable",
+        "description": "Pyspark.prac.brodcast_variable",
+        "peekOfCode": "sc = SparkContext(\"local[*]\",\"count_numbers\")\nsc.setLogLevel(\"ERROR\")\ns = set()\nwith open(boring_path,'r') as f:\n    for i in f:\n        s.add(i.strip('\\n'))\nnameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)\nbase_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\\n            .filter(lambda x:not(x in nameSet.value))\\",
+        "detail": "Pyspark.prac.brodcast_variable",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "Pyspark.prac.brodcast_variable",
+        "description": "Pyspark.prac.brodcast_variable",
+        "peekOfCode": "s = set()\nwith open(boring_path,'r') as f:\n    for i in f:\n        s.add(i.strip('\\n'))\nnameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)\nbase_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\\n            .filter(lambda x:not(x in nameSet.value))\\\n            .map(lambda x:(x,1))\nreduced_rdd = base_rdd.reduceByKey(lambda x,y:x+y).sortBy(lambda x:x[1],False)",
+        "detail": "Pyspark.prac.brodcast_variable",
+        "documentation": {}
+    },
+    {
+        "label": "nameSet",
+        "kind": 5,
+        "importPath": "Pyspark.prac.brodcast_variable",
+        "description": "Pyspark.prac.brodcast_variable",
+        "peekOfCode": "nameSet = sc.broadcast(s)\n# Note brodcast variable is having value by which you can access main value of brodcast variable. check with print(nameSet.value)\nbase_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\\n            .filter(lambda x:not(x in nameSet.value))\\\n            .map(lambda x:(x,1))\nreduced_rdd = base_rdd.reduceByKey(lambda x,y:x+y).sortBy(lambda x:x[1],False)\nfor i in reduced_rdd.collect():\n    print(i)",
+        "detail": "Pyspark.prac.brodcast_variable",
+        "documentation": {}
+    },
+    {
+        "label": "base_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.prac.brodcast_variable",
+        "description": "Pyspark.prac.brodcast_variable",
+        "peekOfCode": "base_rdd = sc.textFile(filepath).flatMap(lambda x:x.split(\" \"))\\\n            .filter(lambda x:not(x in nameSet.value))\\\n            .map(lambda x:(x,1))\nreduced_rdd = base_rdd.reduceByKey(lambda x,y:x+y).sortBy(lambda x:x[1],False)\nfor i in reduced_rdd.collect():\n    print(i)",
+        "detail": "Pyspark.prac.brodcast_variable",
+        "documentation": {}
+    },
+    {
+        "label": "reduced_rdd",
+        "kind": 5,
+        "importPath": "Pyspark.prac.brodcast_variable",
+        "description": "Pyspark.prac.brodcast_variable",
+        "peekOfCode": "reduced_rdd = base_rdd.reduceByKey(lambda x,y:x+y).sortBy(lambda x:x[1],False)\nfor i in reduced_rdd.collect():\n    print(i)",
+        "detail": "Pyspark.prac.brodcast_variable",
+        "documentation": {}
+    },
+    {
+        "label": "my_conf",
+        "kind": 5,
+        "importPath": "Pyspark.prac.frist_prac",
+        "description": "Pyspark.prac.frist_prac",
+        "peekOfCode": "my_conf = SparkConf()\nmy_conf.set(\"spark.app.name\",\"prac\")\nmy_conf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=my_conf).enableHiveSupport().getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\ndf = spark.read.format(\"csv\").option(\"inferSchema\",True).option(\"path\",file_path).option(\"header\",True).load()\ndf.groupBy(\"order_status\").sum(\"order_id\").withColumnRenamed(\"sum(order_id)\",\"order_count\").sort(\"order_count\").show()",
+        "detail": "Pyspark.prac.frist_prac",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.prac.frist_prac",
+        "description": "Pyspark.prac.frist_prac",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=my_conf).enableHiveSupport().getOrCreate()\nfile_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\ndf = spark.read.format(\"csv\").option(\"inferSchema\",True).option(\"path\",file_path).option(\"header\",True).load()\ndf.groupBy(\"order_status\").sum(\"order_id\").withColumnRenamed(\"sum(order_id)\",\"order_count\").sort(\"order_count\").show()",
+        "detail": "Pyspark.prac.frist_prac",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "Pyspark.prac.frist_prac",
+        "description": "Pyspark.prac.frist_prac",
+        "peekOfCode": "file_path = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\ndf = spark.read.format(\"csv\").option(\"inferSchema\",True).option(\"path\",file_path).option(\"header\",True).load()\ndf.groupBy(\"order_status\").sum(\"order_id\").withColumnRenamed(\"sum(order_id)\",\"order_count\").sort(\"order_count\").show()",
+        "detail": "Pyspark.prac.frist_prac",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "Pyspark.prac.frist_prac",
+        "description": "Pyspark.prac.frist_prac",
+        "peekOfCode": "df = spark.read.format(\"csv\").option(\"inferSchema\",True).option(\"path\",file_path).option(\"header\",True).load()\ndf.groupBy(\"order_status\").sum(\"order_id\").withColumnRenamed(\"sum(order_id)\",\"order_count\").sort(\"order_count\").show()",
+        "detail": "Pyspark.prac.frist_prac",
+        "documentation": {}
+    },
+    {
+        "label": "conf",
+        "kind": 5,
+        "importPath": "Pyspark.prac.second",
+        "description": "Pyspark.prac.second",
+        "peekOfCode": "conf = SparkConf()\nconf.set(\"spark.app.name\",\"trial\")\nconf.set(\"spark.master\",\"local[*]\")\nspark = SparkSession.builder.config(conf=conf).getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id String, order_date Date, order_customer_id Float, order_status String\"\ndf = spark.read.format(\"csv\")\\\n    .schema(orderSchema)\\\n    .option(\"header\",True)\\\n    .option(\"path\",filepath)\\",
+        "detail": "Pyspark.prac.second",
+        "documentation": {}
+    },
+    {
+        "label": "spark",
+        "kind": 5,
+        "importPath": "Pyspark.prac.second",
+        "description": "Pyspark.prac.second",
+        "peekOfCode": "spark = SparkSession.builder.config(conf=conf).getOrCreate()\nfilepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id String, order_date Date, order_customer_id Float, order_status String\"\ndf = spark.read.format(\"csv\")\\\n    .schema(orderSchema)\\\n    .option(\"header\",True)\\\n    .option(\"path\",filepath)\\\n    .load()\nn = df.head(10)\nprint(n)",
+        "detail": "Pyspark.prac.second",
+        "documentation": {}
+    },
+    {
+        "label": "filepath",
+        "kind": 5,
+        "importPath": "Pyspark.prac.second",
+        "description": "Pyspark.prac.second",
+        "peekOfCode": "filepath = \"/Users/shashankjain/Desktop/Practice/Spark_learning/Data_sets/orders.csv\"\norderSchema = \"order_id String, order_date Date, order_customer_id Float, order_status String\"\ndf = spark.read.format(\"csv\")\\\n    .schema(orderSchema)\\\n    .option(\"header\",True)\\\n    .option(\"path\",filepath)\\\n    .load()\nn = df.head(10)\nprint(n)",
+        "detail": "Pyspark.prac.second",
+        "documentation": {}
+    },
+    {
+        "label": "orderSchema",
+        "kind": 5,
+        "importPath": "Pyspark.prac.second",
+        "description": "Pyspark.prac.second",
+        "peekOfCode": "orderSchema = \"order_id String, order_date Date, order_customer_id Float, order_status String\"\ndf = spark.read.format(\"csv\")\\\n    .schema(orderSchema)\\\n    .option(\"header\",True)\\\n    .option(\"path\",filepath)\\\n    .load()\nn = df.head(10)\nprint(n)",
+        "detail": "Pyspark.prac.second",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "Pyspark.prac.second",
+        "description": "Pyspark.prac.second",
+        "peekOfCode": "df = spark.read.format(\"csv\")\\\n    .schema(orderSchema)\\\n    .option(\"header\",True)\\\n    .option(\"path\",filepath)\\\n    .load()\nn = df.head(10)\nprint(n)",
+        "detail": "Pyspark.prac.second",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "Pyspark.prac.second",
+        "description": "Pyspark.prac.second",
+        "peekOfCode": "n = df.head(10)\nprint(n)",
+        "detail": "Pyspark.prac.second",
+        "documentation": {}
+    }
+]
